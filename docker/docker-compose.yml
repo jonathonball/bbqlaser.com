@@ -25,3 +25,9 @@ services:
       context: ./mysql
     env_file:
       - ./.env
+  composer:
+    restart: 'no'
+    build:
+      context: ./composer
+    volumes:
+      - ../src:/var/www
