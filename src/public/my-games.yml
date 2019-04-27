@@ -1,0 +1,571 @@
+---
+games:
+  - 3DMark
+  - 3DMark API Overhead feature test
+  - 3DMark Cloud Gate benchmark
+  - 3DMark Fire Strike benchmark
+  - 3DMark Ice Storm benchmark
+  - 3DMark Sky Diver benchmark
+  - 7 Billion Humans
+  - 80 Days
+  - Abyss Odyssey
+  - Age of Wonders III
+  - "Airscape: The Fall of Gravity"
+  - "AI War: Fleet Command"
+  - Alan Wake
+  - Alan Wake's American Nightmare
+  - "Alien: Isolation"
+  - Aliens vs. Predator
+  - "America's Army: Proving Grounds"
+  - Angry Arrows
+  - Anodyne
+  - Anomaly Warzone Earth
+  - Aquaria
+  - "ARK: Survival Evolved"
+  - "ARK: Survival Of The Fittest"
+  - Arma 3
+  - Arma 3 Karts
+  - Arma 3 Malden
+  - Arma 3 Zeus
+  - Artemis Spaceship Bridge Simulator
+  - Assassin's Creed
+  - A Story About My Uncle
+  - ASTRONEER
+  - Audiosurf
+  - Autocraft
+  - "Avadon: The Black Fortress"
+  - A Virus Named TOM
+  - "Back to the Future: Ep 1 - It's About Time"
+  - "Back to the Future: Ep 2 - Get Tannen!"
+  - "Back to the Future: Ep 3 - Citizen Brown"
+  - "Back to the Future: Ep 4 - Double Visions"
+  - "Back to the Future: Ep 5 - OUTATIME"
+  - Bastion
+  - "Batman: Arkham Asylum GOTY Edition"
+  - "Batman: Arkham City GOTY"
+  - "Batman™: Arkham Knight"
+  - BATTLETECH
+  - Ben There, Dan That!
+  - Besiege
+  - BioShock Infinite
+  - BIT.TRIP BEAT
+  - BIT.TRIP RUNNER
+  - Blackguards 2
+  - Boid
+  - Borderlands 2
+  - "Borderlands: The Pre-Sequel"
+  - Bridge Constructor
+  - Bridge Constructor Portal
+  - Broforce
+  - "Broken Sword 1 - Shadow of the Templars: Director's Cut"
+  - Broken Sword 5 - the Serpent's Curse
+  - Brothers - A Tale of Two Sons
+  - Brütal Legend
+  - "Burnout Paradise: The Ultimate Box"
+  - Castle Crashers
+  - CAT Interstellar
+  - Caveblazers
+  - "Chivalry: Medieval Warfare"
+  - Circuits
+  - Cities in Motion 2
+  - "Cities: Skylines"
+  - Citizens of Earth
+  - Civilization VI - Aztec Civilization Pack
+  - Civilization V - Scrambled Continents Map Pack
+  - Clickteam Fusion 2.5
+  - Closure
+  - Clustertruck
+  - Coffee Crisis
+  - Coffin Dodgers
+  - Cogs
+  - Company of Heroes
+  - Company of Heroes - Legacy Edition
+  - "Company of Heroes: Opposing Fronts"
+  - "Company of Heroes: Tales of Valor"
+  - Contagion
+  - Contraption Maker
+  - "Counter-Strike: Global Offensive"
+  - "Counter-Strike: Source"
+  - Crawl
+  - Crayon Physics Deluxe
+  - Crysis 2 Maximum Edition
+  - Cuphead
+  - Darksiders
+  - Darksiders Warmastered Edition
+  - Day of the Tentacle Remastered
+  - DayZ
+  - Dead Cells
+  - Dead Space
+  - Death Ray Manta
+  - Death Road to Canada
+  - DEFCON
+  - Defense Grid 2
+  - "Defense Grid: The Awakening"
+  - Defense Technica
+  - "Deus Ex: Human Revolution"
+  - "Deus Ex: Human Revolution - The Missing Link"
+  - Dig or Die
+  - DiRT 3 Complete Edition
+  - Dishonored 2
+  - DisplayFusion
+  - "Divinity: Dragon Commander"
+  - Domina
+  - DOOM
+  - Door Kickers
+  - Door Kickers Soundtrack
+  - Dota 2
+  - Downward
+  - "Dragon Age: Origins"
+  - Drawful 2
+  - Dreamfall Chapters
+  - Droplitz
+  - Duck Game
+  - Dude, Stop
+  - Duet
+  - "Duke Nukem 3D: Megaton Edition"
+  - Dungeon Defenders
+  - Dungeon of the Endless
+  - Dungeon Souls
+  - Dustforce
+  - Dwarf Tower
+  - EDGE
+  - Eets Munchies
+  - Elite Dangerous
+  - Else Heart.Break()
+  - Endless Space
+  - Enter the Gungeon
+  - Eon Altar
+  - Epic Loon
+  - Eufloria
+  - Eufloria HD
+  - Eufloria HD Original Soundtrack
+  - Euro Truck Simulator 2
+  - EVE Online
+  - EVERSPACE™
+  - EXAPUNKS
+  - "EXAPUNKS: TEC Redshift Player"
+  - Face It - A game to fight inner demons
+  - Factorio
+  - "Fahrenheit: Indigo Prophecy Remastered"
+  - Fallout 4
+  - "Fallout: New Vegas"
+  - "Fallout New Vegas: Courier's Stash"
+  - "Fallout New Vegas: Dead Money"
+  - "Fallout New Vegas: Honest Hearts"
+  - Family Feud
+  - Family Feud 2
+  - "Family Feud 3: Dream Home"
+  - Family Feud 4
+  - Far Cry 2
+  - "Far Cry 2: Fortunes Pack"
+  - Far Cry® 3
+  - Far Cry® 3 Blood Dragon
+  - F.E.A.R.
+  - "F.E.A.R. 2: Project Origin"
+  - F.E.A.R. 3
+  - "F.E.A.R.: Extraction Point"
+  - "F.E.A.R.: Perseus Mandate"
+  - FEZ
+  - Fieldrunners
+  - Firewatch
+  - FORCED
+  - For The King
+  - "Fractal: Make Blooms Not War"
+  - Frozen Synapse
+  - "FTL: Faster Than Light"
+  - Full Mojo Rampage
+  - Galactic Civilizations III
+  - "Galactic Civilizations II: Ultimate Edition"
+  - Gang Beasts
+  - Garry's Mod
+  - Gauntlet
+  - GemCraft - Chasing Shadows
+  - Genital Jousting
+  - "Geometry Wars 3: Dimensions Evolved"
+  - "Geometry Wars: Retro Evolved"
+  - "Ghostbusters: The Video Game"
+  - Glitchspace
+  - Gods Will Be Watching
+  - Golf With Your Friends
+  - Grand Class Melee 2
+  - Grand Theft Auto
+  - Grand Theft Auto 2
+  - "Grand Theft Auto: Episodes from Liberty City"
+  - Grand Theft Auto III
+  - Grand Theft Auto III
+  - Grand Theft Auto IV
+  - "Grand Theft Auto: San Andreas"
+  - "Grand Theft Auto: San Andreas"
+  - Grand Theft Auto V
+  - "Grand Theft Auto: Vice City"
+  - "Grand Theft Auto: Vice City"
+  - Gratuitous Space Battles
+  - GRAV
+  - Greed Corp
+  - Grim Fandango Remastered
+  - Guardians of Middle-earth
+  - Guns of Icarus Online
+  - Hacknet
+  - Hack 'n' Slash
+  - Half-Life 2
+  - "Half-Life 2: Deathmatch"
+  - "Half-Life 2: Episode One"
+  - "Half-Life 2: Episode Two"
+  - "Half-Life 2: Lost Coast"
+  - "Half-Life Deathmatch: Source"
+  - Hammerwatch
+  - "Hector: Ep 1"
+  - "Hector: Ep 2"
+  - "Hector: Ep 3"
+  - "Hellblade: Senua's Sacrifice"
+  - "Hellblade: Senua's Sacrifice VR Edition"
+  - HELLDIVERS™
+  - Hero Siege
+  - Her Story
+  - Home
+  - Homebrew - Patent Unknown
+  - Homeworld Remastered Collection
+  - Hotline Miami
+  - "Hotline Miami 2: Wrong Number"
+  - House Party
+  - HTML5 Exporter for Clickteam Fusion 2.5
+  - Hue
+  - Human Resource Machine
+  - Hyper Light Drifter
+  - Ichi
+  - Incredipede
+  - "Indie Game: The Movie"
+  - Indigo Prophecy
+  - "Infectonator : Survivors"
+  - Infinifactory
+  - InnerSpace
+  - Insurgency
+  - Invisible, Inc.
+  - Jamestown
+  - "Jotun: Valhalla Edition"
+  - Jurassic World Evolution
+  - Just Cause 2
+  - Just Cause 3
+  - Kerbal Space Program
+  - "Kerbal Space Program: Making History Expansion"
+  - "Kingdom Come: Deliverance"
+  - Knight Squad
+  - Kung Fury
+  - L.A. Noire
+  - Left 4 Dead 2
+  - Legend of Grimrock
+  - "Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded"
+  - Life is Strange™
+  - LIMBO
+  - Lords of the Realm II
+  - Lovers in a Dangerous Spacetime
+  - Luxor 3
+  - Machinarium
+  - Magic 2014
+  - Magicite
+  - "Magic: The Gathering - Duels of the Planeswalkers 2013"
+  - Mainlining
+  - "Marble Mayhem: Fragile Ball"
+  - "Marc Eckō's Getting Up: Contents Under Pressure"
+  - Mark of the Ninja
+  - Marmoset Hexels 3
+  - Master of Orion
+  - Master of Orion 1
+  - Master of Orion 2
+  - Master of Orion 3
+  - Max Payne 3
+  - Medal of Honor Pre-Order
+  - Medal of Honor(TM) Multiplayer
+  - Medal of Honor(TM) Single Player
+  - Medieval Engineers
+  - "METAL GEAR SOLID V: GROUND ZEROES"
+  - Metro 2033
+  - Metro 2033 Redux
+  - "Metro: Last Light"
+  - "Metro: Last Light Redux"
+  - "Microsoft Flight Simulator X: Steam Edition"
+  - "Middle-earth™: Shadow of Mordor™"
+  - Mini Metro
+  - Mirror's Edge
+  - Monaco
+  - Mortal Kombat Kollection
+  - Mortal Kombat X
+  - Mother Russia Bleeds
+  - "Mount & Blade: Warband"
+  - Mount Your Friends
+  - Move or Die
+  - N++
+  - Natural Selection 2
+  - Never Alone (Kisima Ingitchuna)
+  - "Never Alone: Original Soundtrack"
+  - Nidhogg
+  - Nimbatus - The Space Drone Constructor
+  - Oh My Godheads
+  - Omerta - City of Gangsters
+  - One More Line
+  - On the Rain-Slick Precipice of Darkness, Episode One
+  - On the Rain-Slick Precipice of Darkness, Episode Two
+  - Opus Magnum
+  - "Organ Trail: Director's Cut"
+  - Ori and the Blind Forest
+  - Orwell
+  - Osmos
+  - Outlast
+  - Override
+  - Oxenfree
+  - PARTICLE MACE
+  - Party Hard
+  - PAYDAY 2
+  - Peggle Deluxe
+  - Pit People
+  - Pixel Piracy
+  - Planetary Annihilation
+  - "Plants vs. Zombies: Game of the Year"
+  - Poker Night at the Inventory
+  - Polarity
+  - Poly Bridge
+  - Pony Island
+  - Portal
+  - Portal 2
+  - "Portal Stories: Mel"
+  - Prey
+  - Prince of Persia
+  - Prison Architect
+  - Project Zomboid
+  - Psychonauts
+  - Psychonauts Demo
+  - Puzzle Agent
+  - Puzzle Agent 2
+  - Quadrilateral Cowboy
+  - Quake
+  - Quake Champions
+  - Quake Live
+  - RAGE
+  - Rainbow Six Siege - Ultra HD Texture Pack
+  - Rampage Knights
+  - Rayman Legends
+  - "Red Faction: Armageddon"
+  - Red Faction Guerrilla Re-Mars-tered
+  - "Red Faction: Guerrilla Steam Edition"
+  - "Redout: Enhanced Edition"
+  - Retro City Rampage™ DX
+  - Revenge of the Titans
+  - RimWorld
+  - Rise of the Tomb Raider
+  - Risk of Rain
+  - Robocraft
+  - Rochard
+  - "Rocketbirds: Hardboiled Chicken"
+  - Rocket League
+  - "Safecracker: The Ultimate Puzzle Adventure"
+  - "Saints Row: The Third"
+  - Salt
+  - "Sam & Max 101: Culture Shock"
+  - "Sam & Max 102: Situation: Comedy"
+  - "Sam & Max 103: The Mole, the Mob and the Meatball"
+  - "Sam & Max 301: The Penal Zone"
+  - "Sam & Max 302: The Tomb of Sammun-Mak"
+  - "Sam & Max 303: They Stole Max's Brain!"
+  - "Sam & Max 304: Beyond the Alley of the Dolls"
+  - "Sam & Max 305: The City that Dares not Sleep"
+  - Sanctum
+  - Sanctum 2
+  - Scrap Mechanic
+  - Screeps
+  - Scribblenauts Unlimited
+  - "Serious Sam 3: BFE"
+  - Serious Sam Fusion 2017 (beta)
+  - "Shadowgate: MacVenture Series"
+  - "Shadowrun: Dragonfall - Director's Cut"
+  - "Shadowrun: Hong Kong - Extended Edition"
+  - Shadowrun Returns
+  - Shadow Warrior
+  - Shadow Warrior Classic Redux
+  - Shank 2
+  - Shatter
+  - ShellShock Live
+  - SHENZHEN I/O
+  - SHENZHEN SOLITAIRE
+  - She Remembered Caterpillars
+  - Sid Meier's Civilization V
+  - "Sid Meier's Civilization V: Brave New World"
+  - Sid Meier's Civilization VI
+  - SimpleRockets
+  - Skyrim High Resolution Texture Pack
+  - Small World 2
+  - Small World 2 - Be Not Afraid...
+  - Small World 2 - Cursed!
+  - Small World 2 - Grand Dames
+  - Snapshot
+  - Songbringer
+  - Songbringer - The Trial of Ren
+  - "South Park™: The Stick of Truth™"
+  - Spacebase DF-9
+  - SpaceChem
+  - Space Engineers
+  - Space Hulk
+  - Space Pirates and Zombies
+  - Sparkle Unleashed
+  - "Spintires: The Original Game"
+  - Spirits
+  - Spirits of Xanadu
+  - Splatter - Blood Red Edition
+  - Splice
+  - "Spriter: Adventure Platformer Pack"
+  - "Spriter: Basic Platformer Pack"
+  - "Spriter: Game Effects Pack"
+  - Spriter Pro
+  - "Spriter: Run N' Gun Pack"
+  - Squirrel Sphere
+  - "S.T.A.L.K.E.R.: Clear Sky"
+  - Starbound
+  - Starbound - Unstable
+  - Stardew Valley
+  - StarMade
+  - "Star Trek™: Starfleet Academy"
+  - "STAR WARS™: Knights of the Old Republic™"
+  - Stealth Bastard Deluxe
+  - Steam Marines
+  - "Stick Fight: The Game"
+  - Streets of Rogue
+  - Subnautica
+  - Sunless Sea
+  - "Superbrothers: Sword & Sworcery EP"
+  - Super Meat Boy
+  - Super Motherload
+  - Supreme Commander
+  - "Supreme Commander: Forged Alliance"
+  - Swords and Soldiers HD
+  - Taimumari
+  - "Tales from Candlekeep: Tomb of Annihilation"
+  - Team Fortress 2
+  - Team Fortress 2 Beta
+  - TERA
+  - Terraria
+  - Tesla Effect
+  - Teslagrad
+  - The Bard's Tale
+  - The Binding of Isaac
+  - "The Binding of Isaac: Rebirth"
+  - "The Chronicles of Riddick: Assault on Dark Athena"
+  - "The Elder Scrolls V: Skyrim"
+  - "The Elder Scrolls V: Skyrim - Dawnguard"
+  - "The Elder Scrolls V: Skyrim - Dragonborn"
+  - "The Elder Scrolls V: Skyrim - Hearthfire"
+  - "The Elder Scrolls V: Skyrim Special Edition"
+  - The Jackbox Party Pack
+  - The Jackbox Party Pack 2
+  - The Jackbox Party Pack 3
+  - The Jackbox Party Pack 4
+  - The Jackbox Party Pack 5
+  - The Long Dark
+  - "The Lord of the Rings: War in the North"
+  - The Stanley Parable
+  - The Talos Principle
+  - "The Talos Principle: Road To Gehenna"
+  - The Vanishing of Ethan Carter
+  - The Vanishing of Ethan Carter Redux
+  - The Walking Dead
+  - "The Walking Dead: Michonne"
+  - "The Walking Dead: Season Two"
+  - "The Witcher 2: Assassins of Kings Enhanced Edition"
+  - "The Witcher 3: Wild Hunt"
+  - "The Witcher 3: Wild Hunt - Expansion Pass"
+  - "The Witcher 3: Wild Hunt - New Finisher Animations"
+  - The Witness
+  - The Wolf Among Us
+  - This Is the Police
+  - This Is the Police 2
+  - This War of Mine
+  - Thumper
+  - Ticket to Ride
+  - Ticket to Ride - Europe
+  - Ticket to Ride - USA 1910
+  - Time Gentlemen, Please!
+  - "Tiny Bridge: Ratventure"
+  - TIS-100
+  - Titan Quest
+  - Titan Quest Anniversary Edition
+  - Titan Souls
+  - Tomb Raider
+  - Tom Clancy's Ghost Recon Phantoms - NA
+  - Tom Clancy's Rainbow Six Siege
+  - Tom Clancy's Rainbow Six Siege - Test Server
+  - "Tom Clancy's Rainbow Six: Vegas"
+  - Torchlight
+  - "Torment: Tides of Numenera"
+  - Trailmakers
+  - Train Simulator
+  - "Train Simulator: Sheerness Branch Extension Route"
+  - "Train Simulator: Southern Pacific SD70M Loco"
+  - Transistor
+  - Tricky Towers
+  - Trine 2
+  - "Trine 3: The Artifacts of Power"
+  - Tropico 4
+  - Tropico 5
+  - Turmoil
+  - Ultimate Chicken Horse
+  - "Ultimate General: Gettysburg"
+  - "Unreal Tournament 3: Black Edition"
+  - Uplink
+  - Vessel
+  - Victor Vran
+  - "Viscera Cleanup Detail: Shadow Warrior"
+  - "Wallace & Gromit Ep 1: Fright of the Bumblebees"
+  - "Wallace & Gromit Ep 2: The Last Resort"
+  - "Wallace & Gromit Ep 3: Muzzled!"
+  - "Wallace & Gromit Ep 4: The Bogey Man"
+  - Wallpaper Engine
+  - "Warhammer 40,000: Dawn of War - Dark Crusade"
+  - "Warhammer 40,000: Dawn of War - Game of the Year Edition"
+  - "Warhammer 40,000: Dawn of War II"
+  - "Warhammer 40,000: Dawn of War II - Chaos Rising"
+  - "Warhammer 40,000: Dawn of War II - Retribution"
+  - "Warhammer 40,000: Dawn of War - Soulstorm"
+  - "Warhammer 40,000: Dawn of War - Winter Assault"
+  - "Warhammer 40,000: Storm of Vengeance: Deathwing Terminator"
+  - Wasteland 2
+  - "Wasteland 2: Director's Cut"
+  - Watch_Dogs 2
+  - WayOut
+  - "Westerado: Double Barreled"
+  - Wizorb
+  - "Wolfenstein: The New Order"
+  - World of Goo
+  - Worms Armageddon
+  - Worms Clan Wars
+  - Worms Reloaded
+  - Worms Revolution
+  - Worms World Party Remastered
+  - "X2: The Threat"
+  - "X3: Albion Prelude"
+  - "X3: Reunion"
+  - "X3: Terran Conflict"
+  - "X: Beyond the Frontier"
+  - XCOM 2
+  - "XCOM 2: Alien Hunters"
+  - "XCOM 2: Anarchy's Children"
+  - "XCOM 2: Digital Soundtrack"
+  - "XCOM 2: Reinforcement Pack"
+  - "XCOM 2: Shen's Last Gift"
+  - "X-COM: Apocalypse"
+  - "XCOM: Enemy Unknown"
+  - "XCOM: Enemy Within"
+  - "X-COM: Enforcer"
+  - "X-COM: Interceptor"
+  - "X-COM: Terror from the Deep"
+  - "X-COM: UFO Defense"
+  - Xenonauts
+  - X-Tension
+  - YOU DON'T KNOW JACK HEADRUSH
+  - YOU DON'T KNOW JACK MOVIES
+  - YOU DON'T KNOW JACK SPORTS
+  - YOU DON'T KNOW JACK TELEVISION
+  - YOU DON'T KNOW JACK Vol. 1 XL
+  - YOU DON'T KNOW JACK Vol. 2
+  - YOU DON'T KNOW JACK Vol. 3
+  - YOU DON'T KNOW JACK Vol. 4 The Ride
+  - YOU DON'T KNOW JACK Vol. 6 The Lost Gold
+  - Zen Bound® 2
+  - Zombie Party
