@@ -9,3 +9,5 @@ Source code for bbqlaser.com
 - http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/
 
 - https://x-team.com/blog/docker-compose-php-environment-from-scratch/
+
+- https://www.howtoforge.com/dockerizing-laravel-with-nginx-mysql-and-docker-compose/
