@@ -1,5 +1,7 @@
 FROM php:fpm-alpine
 
+COPY ./php.ini /etc/php7/php.ini
+
 # Install Additional dependencies
 RUN apk update && apk add --no-cache \
     build-base shadow vim curl \
