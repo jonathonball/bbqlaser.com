@@ -33,8 +33,7 @@ services:
     networks:
       - bbqlaser
   composer:
-    build:
-      context: ./composer
+    image: composer:latest
     restart: 'no'
     command: install
     volumes:
