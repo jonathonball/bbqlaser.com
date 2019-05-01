@@ -1,14 +1,8 @@
 ---
+# A local development environment
 version: '3'
 
 services:
-  php-fpm:
-    build:
-      context: ./php-fpm
-    volumes:
-      - ../src:/var/www
-    networks:
-      - mynet
   nginx:
     build:
       context: ./nginx
@@ -23,14 +17,21 @@ services:
     depends_on:
       - php-fpm
     networks:
-      - mynet
+      - bbqlaser
+  php-fpm:
+    build:
+      context: ./php-fpm
+    volumes:
+      - ../src:/var/www
+    networks:
+      - bbqlaser
   mysql:
     build:
       context: ./mysql
     env_file:
-      - ./.env
+      - ./mysql/.env
     networks:
-      - mynet
+      - bbqlaser
   composer:
     build:
       context: ./composer
@@ -40,5 +41,9 @@ services:
       - ../src:/app
 
 networks:
-  mynet:
+  bbqlaser:
     driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 192.168.69.0/24
