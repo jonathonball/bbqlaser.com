@@ -38,6 +38,12 @@ services:
     command: install
     volumes:
       - ../src:/app
+  node:
+    image: node:latest
+    working_dir: /app
+    volumes:
+      - ../src:/app
+    command: npm install
 
 networks:
   bbqlaser:
