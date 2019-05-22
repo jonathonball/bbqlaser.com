@@ -3,7 +3,7 @@ src/node_modules
 src/public/hot
 src/public/storage
 storage/*.key
-vendor
+src/vendor
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
