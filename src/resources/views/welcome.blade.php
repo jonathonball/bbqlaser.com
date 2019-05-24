@@ -88,6 +88,9 @@
             <li>
               <a href="https://github.com/jonathonball"><img class="logo" src="{{ asset('images/GitHub-Mark-120px-plus.png') }}"/></a>
             </li>
+            <li>
+              <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="{{ asset('images/f_logo_RGB-Black_72.png') }}"/></a>
+            </li>
           </ul>
         </div>
       </div>
