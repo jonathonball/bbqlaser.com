@@ -53,7 +53,6 @@
       .logo {
           color: #636b6f;
           height: 64px;
-          width: 64px;
       }
 
       .m-b-md {
@@ -90,6 +89,9 @@
             </li>
             <li>
               <a href="https://www.facebook.com/vb.jon.ball"><img class="logo" src="{{ asset('images/f_logo_RGB-Black_72.png') }}"/></a>
+            </li>
+            <li>
+              <a href="https://cornerofattention.com"><img class="logo" src="{{ asset('images/Tumblr_Logos_2018.03.06_t Icon Black.png') }}"/></a>
             </li>
           </ul>
         </div>
