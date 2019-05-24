@@ -63,19 +63,15 @@
       .naked-list {
           list-style: none;
       }
+
+      .horizontal-list li {
+          display: inline;
+      }
     </style>
   </head>
   <body>
     <div class="flex-center position-ref full-height">
       <div class="top-right links">
-        <ul class="naked-list">
-          <li>
-            <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="{{ asset('images/glyph-logo_May2016.png') }}"/></a>
-          </li>
-          <li>
-            <a href="https://github.com/jonathonball"><img class="logo" src="{{ asset('images/GitHub-Mark-120px-plus.png') }}"/></a>
-          </li>
-        </ul>
       </div>
 
       <div class="content">
@@ -85,6 +81,14 @@
 
         <div class="links">
           <a href="#">New Content Coming Soon</a>
+          <ul class="naked-list horizontal-list">
+            <li>
+              <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="{{ asset('images/glyph-logo_May2016.png') }}"/></a>
+            </li>
+            <li>
+              <a href="https://github.com/jonathonball"><img class="logo" src="{{ asset('images/GitHub-Mark-120px-plus.png') }}"/></a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
