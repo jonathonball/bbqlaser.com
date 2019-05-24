@@ -2,7 +2,16 @@
 # A local development environment
 version: '3'
 
+networks:
+  bbqlaser:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 192.168.69.0/24
+
 services:
+
   nginx:
     image: nginx:alpine
     command: nginx
@@ -18,6 +27,7 @@ services:
       - php-fpm
     networks:
       - bbqlaser
+
   php-fpm:
     build:
       context: ./php-fpm
@@ -27,6 +37,7 @@ services:
       - bbqlaser
     depends_on:
       - mysql
+
   mysql:
     image: mysql:5.7
     command: mysqld
@@ -36,23 +47,17 @@ services:
       - ./mysql/.env
     networks:
       - bbqlaser
-  composer:
+
+  composer: # exits
     image: composer:latest
     restart: 'no'
     command: install
     volumes:
       - ../src:/app
-  node:
+
+  node: # exits
     image: node:latest
     working_dir: /app
     volumes:
       - ../src:/app
     command: npm install
-
-networks:
-  bbqlaser:
-    driver: bridge
-    ipam:
-      driver: default
-      config:
-        - subnet: 192.168.69.0/24
