@@ -4,8 +4,8 @@ version: '3'
 
 services:
   nginx:
-    build:
-      context: ./nginx
+    image: nginx:alpine
+    command: nginx
     ports:
       - "80:80"
       - "443:443"
@@ -25,9 +25,13 @@ services:
       - ../src:/var/www
     networks:
       - bbqlaser
+    depends_on:
+      - mysql
   mysql:
-    build:
-      context: ./mysql
+    image: mysql:5.7
+    command: mysqld
+    ports:
+      - "3306:3306"
     env_file:
       - ./mysql/.env
     networks:
