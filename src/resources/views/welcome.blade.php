@@ -76,7 +76,7 @@
 
       <div class="content">
         <div class="m-b-md">
-          <img src="{{ asset('images/carlton.gif') }}" title="I love this gif.  It's a lovely embodiment of a beautiful man expressing joy "/>
+          <img src="{{ asset('images/carlton.gif') }}" title="I love this gif.  It's a lovely embodiment of a beautiful man expressing joy. "/>
         </div>
 
         <div class="links">
