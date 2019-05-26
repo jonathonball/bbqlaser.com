@@ -19,7 +19,6 @@ class GamePlatform extends Migration
             $table->string('name');
             $table->integer('min_players');
             $table->integer('max_players');
-            $table->integer('platform_id');
         });
         Schema::create('platforms', function (Blueprint $table) {
             $table->increments('id');
