@@ -22,10 +22,14 @@ RUN apk update && apk add --no-cache \
     php7-dom \
     php7-session \
     php7-zlib
+RUN apk add --no-cache --virtual .build-deps \
+    g++ make autoconf yaml-dev
 
 # Add and Enable PHP-PDO Extenstions
 RUN docker-php-ext-install pdo pdo_mysql
 RUN docker-php-ext-enable pdo_mysql
+RUN pecl install yaml
+RUN docker-php-ext-enable yaml
 
 CMD ["php-fpm"]
 
