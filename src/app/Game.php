@@ -8,7 +8,7 @@ class Game extends Model
 {
 
     public function platform() {
-        return $this->belongsToMany(Game::class);
+        return $this->belongsToMany(Platform::class);
     }
 
 }
