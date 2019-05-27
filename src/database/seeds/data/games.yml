@@ -1,571 +1,1709 @@
 ---
-games:
-  - 3DMark
-  - 3DMark API Overhead feature test
-  - 3DMark Cloud Gate benchmark
-  - 3DMark Fire Strike benchmark
-  - 3DMark Ice Storm benchmark
-  - 3DMark Sky Diver benchmark
-  - 7 Billion Humans
-  - 80 Days
-  - Abyss Odyssey
-  - Age of Wonders III
-  - "Airscape: The Fall of Gravity"
-  - "AI War: Fleet Command"
-  - Alan Wake
-  - Alan Wake's American Nightmare
-  - "Alien: Isolation"
-  - Aliens vs. Predator
-  - "America's Army: Proving Grounds"
-  - Angry Arrows
-  - Anodyne
-  - Anomaly Warzone Earth
-  - Aquaria
-  - "ARK: Survival Evolved"
-  - "ARK: Survival Of The Fittest"
-  - Arma 3
-  - Arma 3 Karts
-  - Arma 3 Malden
-  - Arma 3 Zeus
-  - Artemis Spaceship Bridge Simulator
-  - Assassin's Creed
-  - A Story About My Uncle
-  - ASTRONEER
-  - Audiosurf
-  - Autocraft
-  - "Avadon: The Black Fortress"
-  - A Virus Named TOM
-  - "Back to the Future: Ep 1 - It's About Time"
-  - "Back to the Future: Ep 2 - Get Tannen!"
-  - "Back to the Future: Ep 3 - Citizen Brown"
-  - "Back to the Future: Ep 4 - Double Visions"
-  - "Back to the Future: Ep 5 - OUTATIME"
-  - Bastion
-  - "Batman: Arkham Asylum GOTY Edition"
-  - "Batman: Arkham City GOTY"
-  - "Batman™: Arkham Knight"
-  - BATTLETECH
-  - Ben There, Dan That!
-  - Besiege
-  - BioShock Infinite
-  - BIT.TRIP BEAT
-  - BIT.TRIP RUNNER
-  - Blackguards 2
-  - Boid
-  - Borderlands 2
-  - "Borderlands: The Pre-Sequel"
-  - Bridge Constructor
-  - Bridge Constructor Portal
-  - Broforce
-  - "Broken Sword 1 - Shadow of the Templars: Director's Cut"
-  - Broken Sword 5 - the Serpent's Curse
-  - Brothers - A Tale of Two Sons
-  - Brütal Legend
-  - "Burnout Paradise: The Ultimate Box"
-  - Castle Crashers
-  - CAT Interstellar
-  - Caveblazers
-  - "Chivalry: Medieval Warfare"
-  - Circuits
-  - Cities in Motion 2
-  - "Cities: Skylines"
-  - Citizens of Earth
-  - Civilization VI - Aztec Civilization Pack
-  - Civilization V - Scrambled Continents Map Pack
-  - Clickteam Fusion 2.5
-  - Closure
-  - Clustertruck
-  - Coffee Crisis
-  - Coffin Dodgers
-  - Cogs
-  - Company of Heroes
-  - Company of Heroes - Legacy Edition
-  - "Company of Heroes: Opposing Fronts"
-  - "Company of Heroes: Tales of Valor"
-  - Contagion
-  - Contraption Maker
-  - "Counter-Strike: Global Offensive"
-  - "Counter-Strike: Source"
-  - Crawl
-  - Crayon Physics Deluxe
-  - Crysis 2 Maximum Edition
-  - Cuphead
-  - Darksiders
-  - Darksiders Warmastered Edition
-  - Day of the Tentacle Remastered
-  - DayZ
-  - Dead Cells
-  - Dead Space
-  - Death Ray Manta
-  - Death Road to Canada
-  - DEFCON
-  - Defense Grid 2
-  - "Defense Grid: The Awakening"
-  - Defense Technica
-  - "Deus Ex: Human Revolution"
-  - "Deus Ex: Human Revolution - The Missing Link"
-  - Dig or Die
-  - DiRT 3 Complete Edition
-  - Dishonored 2
-  - DisplayFusion
-  - "Divinity: Dragon Commander"
-  - Domina
-  - DOOM
-  - Door Kickers
-  - Door Kickers Soundtrack
-  - Dota 2
-  - Downward
-  - "Dragon Age: Origins"
-  - Drawful 2
-  - Dreamfall Chapters
-  - Droplitz
-  - Duck Game
-  - Dude, Stop
-  - Duet
-  - "Duke Nukem 3D: Megaton Edition"
-  - Dungeon Defenders
-  - Dungeon of the Endless
-  - Dungeon Souls
-  - Dustforce
-  - Dwarf Tower
-  - EDGE
-  - Eets Munchies
-  - Elite Dangerous
-  - Else Heart.Break()
-  - Endless Space
-  - Enter the Gungeon
-  - Eon Altar
-  - Epic Loon
-  - Eufloria
-  - Eufloria HD
-  - Eufloria HD Original Soundtrack
-  - Euro Truck Simulator 2
-  - EVE Online
-  - EVERSPACE™
-  - EXAPUNKS
-  - "EXAPUNKS: TEC Redshift Player"
-  - Face It - A game to fight inner demons
-  - Factorio
-  - "Fahrenheit: Indigo Prophecy Remastered"
-  - Fallout 4
-  - "Fallout: New Vegas"
-  - "Fallout New Vegas: Courier's Stash"
-  - "Fallout New Vegas: Dead Money"
-  - "Fallout New Vegas: Honest Hearts"
-  - Family Feud
-  - Family Feud 2
-  - "Family Feud 3: Dream Home"
-  - Family Feud 4
-  - Far Cry 2
-  - "Far Cry 2: Fortunes Pack"
-  - Far Cry® 3
-  - Far Cry® 3 Blood Dragon
-  - F.E.A.R.
-  - "F.E.A.R. 2: Project Origin"
-  - F.E.A.R. 3
-  - "F.E.A.R.: Extraction Point"
-  - "F.E.A.R.: Perseus Mandate"
-  - FEZ
-  - Fieldrunners
-  - Firewatch
-  - FORCED
-  - For The King
-  - "Fractal: Make Blooms Not War"
-  - Frozen Synapse
-  - "FTL: Faster Than Light"
-  - Full Mojo Rampage
-  - Galactic Civilizations III
-  - "Galactic Civilizations II: Ultimate Edition"
-  - Gang Beasts
-  - Garry's Mod
-  - Gauntlet
-  - GemCraft - Chasing Shadows
-  - Genital Jousting
-  - "Geometry Wars 3: Dimensions Evolved"
-  - "Geometry Wars: Retro Evolved"
-  - "Ghostbusters: The Video Game"
-  - Glitchspace
-  - Gods Will Be Watching
-  - Golf With Your Friends
-  - Grand Class Melee 2
-  - Grand Theft Auto
-  - Grand Theft Auto 2
-  - "Grand Theft Auto: Episodes from Liberty City"
-  - Grand Theft Auto III
-  - Grand Theft Auto III
-  - Grand Theft Auto IV
-  - "Grand Theft Auto: San Andreas"
-  - "Grand Theft Auto: San Andreas"
-  - Grand Theft Auto V
-  - "Grand Theft Auto: Vice City"
-  - "Grand Theft Auto: Vice City"
-  - Gratuitous Space Battles
-  - GRAV
-  - Greed Corp
-  - Grim Fandango Remastered
-  - Guardians of Middle-earth
-  - Guns of Icarus Online
-  - Hacknet
-  - Hack 'n' Slash
-  - Half-Life 2
-  - "Half-Life 2: Deathmatch"
-  - "Half-Life 2: Episode One"
-  - "Half-Life 2: Episode Two"
-  - "Half-Life 2: Lost Coast"
-  - "Half-Life Deathmatch: Source"
-  - Hammerwatch
-  - "Hector: Ep 1"
-  - "Hector: Ep 2"
-  - "Hector: Ep 3"
-  - "Hellblade: Senua's Sacrifice"
-  - "Hellblade: Senua's Sacrifice VR Edition"
-  - HELLDIVERS™
-  - Hero Siege
-  - Her Story
-  - Home
-  - Homebrew - Patent Unknown
-  - Homeworld Remastered Collection
-  - Hotline Miami
-  - "Hotline Miami 2: Wrong Number"
-  - House Party
-  - HTML5 Exporter for Clickteam Fusion 2.5
-  - Hue
-  - Human Resource Machine
-  - Hyper Light Drifter
-  - Ichi
-  - Incredipede
-  - "Indie Game: The Movie"
-  - Indigo Prophecy
-  - "Infectonator : Survivors"
-  - Infinifactory
-  - InnerSpace
-  - Insurgency
-  - Invisible, Inc.
-  - Jamestown
-  - "Jotun: Valhalla Edition"
-  - Jurassic World Evolution
-  - Just Cause 2
-  - Just Cause 3
-  - Kerbal Space Program
-  - "Kerbal Space Program: Making History Expansion"
-  - "Kingdom Come: Deliverance"
-  - Knight Squad
-  - Kung Fury
-  - L.A. Noire
-  - Left 4 Dead 2
-  - Legend of Grimrock
-  - "Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded"
-  - Life is Strange™
-  - LIMBO
-  - Lords of the Realm II
-  - Lovers in a Dangerous Spacetime
-  - Luxor 3
-  - Machinarium
-  - Magic 2014
-  - Magicite
-  - "Magic: The Gathering - Duels of the Planeswalkers 2013"
-  - Mainlining
-  - "Marble Mayhem: Fragile Ball"
-  - "Marc Eckō's Getting Up: Contents Under Pressure"
-  - Mark of the Ninja
-  - Marmoset Hexels 3
-  - Master of Orion
-  - Master of Orion 1
-  - Master of Orion 2
-  - Master of Orion 3
-  - Max Payne 3
-  - Medal of Honor Pre-Order
-  - Medal of Honor(TM) Multiplayer
-  - Medal of Honor(TM) Single Player
-  - Medieval Engineers
-  - "METAL GEAR SOLID V: GROUND ZEROES"
-  - Metro 2033
-  - Metro 2033 Redux
-  - "Metro: Last Light"
-  - "Metro: Last Light Redux"
-  - "Microsoft Flight Simulator X: Steam Edition"
-  - "Middle-earth™: Shadow of Mordor™"
-  - Mini Metro
-  - Mirror's Edge
-  - Monaco
-  - Mortal Kombat Kollection
-  - Mortal Kombat X
-  - Mother Russia Bleeds
-  - "Mount & Blade: Warband"
-  - Mount Your Friends
-  - Move or Die
-  - N++
-  - Natural Selection 2
-  - Never Alone (Kisima Ingitchuna)
-  - "Never Alone: Original Soundtrack"
-  - Nidhogg
-  - Nimbatus - The Space Drone Constructor
-  - Oh My Godheads
-  - Omerta - City of Gangsters
-  - One More Line
-  - On the Rain-Slick Precipice of Darkness, Episode One
-  - On the Rain-Slick Precipice of Darkness, Episode Two
-  - Opus Magnum
-  - "Organ Trail: Director's Cut"
-  - Ori and the Blind Forest
-  - Orwell
-  - Osmos
-  - Outlast
-  - Override
-  - Oxenfree
-  - PARTICLE MACE
-  - Party Hard
-  - PAYDAY 2
-  - Peggle Deluxe
-  - Pit People
-  - Pixel Piracy
-  - Planetary Annihilation
-  - "Plants vs. Zombies: Game of the Year"
-  - Poker Night at the Inventory
-  - Polarity
-  - Poly Bridge
-  - Pony Island
-  - Portal
-  - Portal 2
-  - "Portal Stories: Mel"
-  - Prey
-  - Prince of Persia
-  - Prison Architect
-  - Project Zomboid
-  - Psychonauts
-  - Psychonauts Demo
-  - Puzzle Agent
-  - Puzzle Agent 2
-  - Quadrilateral Cowboy
-  - Quake
-  - Quake Champions
-  - Quake Live
-  - RAGE
-  - Rainbow Six Siege - Ultra HD Texture Pack
-  - Rampage Knights
-  - Rayman Legends
-  - "Red Faction: Armageddon"
-  - Red Faction Guerrilla Re-Mars-tered
-  - "Red Faction: Guerrilla Steam Edition"
-  - "Redout: Enhanced Edition"
-  - Retro City Rampage™ DX
-  - Revenge of the Titans
-  - RimWorld
-  - Rise of the Tomb Raider
-  - Risk of Rain
-  - Robocraft
-  - Rochard
-  - "Rocketbirds: Hardboiled Chicken"
-  - Rocket League
-  - "Safecracker: The Ultimate Puzzle Adventure"
-  - "Saints Row: The Third"
-  - Salt
-  - "Sam & Max 101: Culture Shock"
-  - "Sam & Max 102: Situation: Comedy"
-  - "Sam & Max 103: The Mole, the Mob and the Meatball"
-  - "Sam & Max 301: The Penal Zone"
-  - "Sam & Max 302: The Tomb of Sammun-Mak"
-  - "Sam & Max 303: They Stole Max's Brain!"
-  - "Sam & Max 304: Beyond the Alley of the Dolls"
-  - "Sam & Max 305: The City that Dares not Sleep"
-  - Sanctum
-  - Sanctum 2
-  - Scrap Mechanic
-  - Screeps
-  - Scribblenauts Unlimited
-  - "Serious Sam 3: BFE"
-  - Serious Sam Fusion 2017 (beta)
-  - "Shadowgate: MacVenture Series"
-  - "Shadowrun: Dragonfall - Director's Cut"
-  - "Shadowrun: Hong Kong - Extended Edition"
-  - Shadowrun Returns
-  - Shadow Warrior
-  - Shadow Warrior Classic Redux
-  - Shank 2
-  - Shatter
-  - ShellShock Live
-  - SHENZHEN I/O
-  - SHENZHEN SOLITAIRE
-  - She Remembered Caterpillars
-  - Sid Meier's Civilization V
-  - "Sid Meier's Civilization V: Brave New World"
-  - Sid Meier's Civilization VI
-  - SimpleRockets
-  - Skyrim High Resolution Texture Pack
-  - Small World 2
-  - Small World 2 - Be Not Afraid...
-  - Small World 2 - Cursed!
-  - Small World 2 - Grand Dames
-  - Snapshot
-  - Songbringer
-  - Songbringer - The Trial of Ren
-  - "South Park™: The Stick of Truth™"
-  - Spacebase DF-9
-  - SpaceChem
-  - Space Engineers
-  - Space Hulk
-  - Space Pirates and Zombies
-  - Sparkle Unleashed
-  - "Spintires: The Original Game"
-  - Spirits
-  - Spirits of Xanadu
-  - Splatter - Blood Red Edition
-  - Splice
-  - "Spriter: Adventure Platformer Pack"
-  - "Spriter: Basic Platformer Pack"
-  - "Spriter: Game Effects Pack"
-  - Spriter Pro
-  - "Spriter: Run N' Gun Pack"
-  - Squirrel Sphere
-  - "S.T.A.L.K.E.R.: Clear Sky"
-  - Starbound
-  - Starbound - Unstable
-  - Stardew Valley
-  - StarMade
-  - "Star Trek™: Starfleet Academy"
-  - "STAR WARS™: Knights of the Old Republic™"
-  - Stealth Bastard Deluxe
-  - Steam Marines
-  - "Stick Fight: The Game"
-  - Streets of Rogue
-  - Subnautica
-  - Sunless Sea
-  - "Superbrothers: Sword & Sworcery EP"
-  - Super Meat Boy
-  - Super Motherload
-  - Supreme Commander
-  - "Supreme Commander: Forged Alliance"
-  - Swords and Soldiers HD
-  - Taimumari
-  - "Tales from Candlekeep: Tomb of Annihilation"
-  - Team Fortress 2
-  - Team Fortress 2 Beta
-  - TERA
-  - Terraria
-  - Tesla Effect
-  - Teslagrad
-  - The Bard's Tale
-  - The Binding of Isaac
-  - "The Binding of Isaac: Rebirth"
-  - "The Chronicles of Riddick: Assault on Dark Athena"
-  - "The Elder Scrolls V: Skyrim"
-  - "The Elder Scrolls V: Skyrim - Dawnguard"
-  - "The Elder Scrolls V: Skyrim - Dragonborn"
-  - "The Elder Scrolls V: Skyrim - Hearthfire"
-  - "The Elder Scrolls V: Skyrim Special Edition"
-  - The Jackbox Party Pack
-  - The Jackbox Party Pack 2
-  - The Jackbox Party Pack 3
-  - The Jackbox Party Pack 4
-  - The Jackbox Party Pack 5
-  - The Long Dark
-  - "The Lord of the Rings: War in the North"
-  - The Stanley Parable
-  - The Talos Principle
-  - "The Talos Principle: Road To Gehenna"
-  - The Vanishing of Ethan Carter
-  - The Vanishing of Ethan Carter Redux
-  - The Walking Dead
-  - "The Walking Dead: Michonne"
-  - "The Walking Dead: Season Two"
-  - "The Witcher 2: Assassins of Kings Enhanced Edition"
-  - "The Witcher 3: Wild Hunt"
-  - "The Witcher 3: Wild Hunt - Expansion Pass"
-  - "The Witcher 3: Wild Hunt - New Finisher Animations"
-  - The Witness
-  - The Wolf Among Us
-  - This Is the Police
-  - This Is the Police 2
-  - This War of Mine
-  - Thumper
-  - Ticket to Ride
-  - Ticket to Ride - Europe
-  - Ticket to Ride - USA 1910
-  - Time Gentlemen, Please!
-  - "Tiny Bridge: Ratventure"
-  - TIS-100
-  - Titan Quest
-  - Titan Quest Anniversary Edition
-  - Titan Souls
-  - Tomb Raider
-  - Tom Clancy's Ghost Recon Phantoms - NA
-  - Tom Clancy's Rainbow Six Siege
-  - Tom Clancy's Rainbow Six Siege - Test Server
-  - "Tom Clancy's Rainbow Six: Vegas"
-  - Torchlight
-  - "Torment: Tides of Numenera"
-  - Trailmakers
-  - Train Simulator
-  - "Train Simulator: Sheerness Branch Extension Route"
-  - "Train Simulator: Southern Pacific SD70M Loco"
-  - Transistor
-  - Tricky Towers
-  - Trine 2
-  - "Trine 3: The Artifacts of Power"
-  - Tropico 4
-  - Tropico 5
-  - Turmoil
-  - Ultimate Chicken Horse
-  - "Ultimate General: Gettysburg"
-  - "Unreal Tournament 3: Black Edition"
-  - Uplink
-  - Vessel
-  - Victor Vran
-  - "Viscera Cleanup Detail: Shadow Warrior"
-  - "Wallace & Gromit Ep 1: Fright of the Bumblebees"
-  - "Wallace & Gromit Ep 2: The Last Resort"
-  - "Wallace & Gromit Ep 3: Muzzled!"
-  - "Wallace & Gromit Ep 4: The Bogey Man"
-  - Wallpaper Engine
-  - "Warhammer 40,000: Dawn of War - Dark Crusade"
-  - "Warhammer 40,000: Dawn of War - Game of the Year Edition"
-  - "Warhammer 40,000: Dawn of War II"
-  - "Warhammer 40,000: Dawn of War II - Chaos Rising"
-  - "Warhammer 40,000: Dawn of War II - Retribution"
-  - "Warhammer 40,000: Dawn of War - Soulstorm"
-  - "Warhammer 40,000: Dawn of War - Winter Assault"
-  - "Warhammer 40,000: Storm of Vengeance: Deathwing Terminator"
-  - Wasteland 2
-  - "Wasteland 2: Director's Cut"
-  - Watch_Dogs 2
-  - WayOut
-  - "Westerado: Double Barreled"
-  - Wizorb
-  - "Wolfenstein: The New Order"
-  - World of Goo
-  - Worms Armageddon
-  - Worms Clan Wars
-  - Worms Reloaded
-  - Worms Revolution
-  - Worms World Party Remastered
-  - "X2: The Threat"
-  - "X3: Albion Prelude"
-  - "X3: Reunion"
-  - "X3: Terran Conflict"
-  - "X: Beyond the Frontier"
-  - XCOM 2
-  - "XCOM 2: Alien Hunters"
-  - "XCOM 2: Anarchy's Children"
-  - "XCOM 2: Digital Soundtrack"
-  - "XCOM 2: Reinforcement Pack"
-  - "XCOM 2: Shen's Last Gift"
-  - "X-COM: Apocalypse"
-  - "XCOM: Enemy Unknown"
-  - "XCOM: Enemy Within"
-  - "X-COM: Enforcer"
-  - "X-COM: Interceptor"
-  - "X-COM: Terror from the Deep"
-  - "X-COM: UFO Defense"
-  - Xenonauts
-  - X-Tension
-  - YOU DON'T KNOW JACK HEADRUSH
-  - YOU DON'T KNOW JACK MOVIES
-  - YOU DON'T KNOW JACK SPORTS
-  - YOU DON'T KNOW JACK TELEVISION
-  - YOU DON'T KNOW JACK Vol. 1 XL
-  - YOU DON'T KNOW JACK Vol. 2
-  - YOU DON'T KNOW JACK Vol. 3
-  - YOU DON'T KNOW JACK Vol. 4 The Ride
-  - YOU DON'T KNOW JACK Vol. 6 The Lost Gold
-  - Zen Bound® 2
-  - Zombie Party
+PC:
+  - name: 3DMark
+    min_players: 1
+    max_players: 1
+  - name: 3DMark API Overhead feature test
+    min_players: 1
+    max_players: 1
+  - name: 3DMark Cloud Gate benchmark
+    min_players: 1
+    max_players: 1
+  - name: 3DMark Fire Strike benchmark
+    min_players: 1
+    max_players: 1
+  - name: 3DMark Ice Storm benchmark
+    min_players: 1
+    max_players: 1
+  - name: 3DMark Sky Diver benchmark
+    min_players: 1
+    max_players: 1
+  - name: 7 Billion Humans
+    min_players: 1
+    max_players: 1
+  - name: 80 Days
+    min_players: 1
+    max_players: 1
+  - name: Abyss Odyssey
+    min_players: 1
+    max_players: 1
+  - name: Age of Wonders III
+    min_players: 1
+    max_players: 1
+  - name: "Airscape: The Fall of Gravity"
+    min_players: 1
+    max_players: 1
+  - name: "AI War: Fleet Command"
+    min_players: 1
+    max_players: 1
+  - name: Alan Wake
+    min_players: 1
+    max_players: 1
+  - name: Alan Wake's American Nightmare
+    min_players: 1
+    max_players: 1
+  - name: "Alien: Isolation"
+    min_players: 1
+    max_players: 1
+  - name: Aliens vs. Predator
+    min_players: 1
+    max_players: 1
+  - name: "America's Army: Proving Grounds"
+    min_players: 1
+    max_players: 1
+  - name: Angry Arrows
+    min_players: 1
+    max_players: 1
+  - name: Anodyne
+    min_players: 1
+    max_players: 1
+  - name: Anomaly Warzone Earth
+    min_players: 1
+    max_players: 1
+  - name: Aquaria
+    min_players: 1
+    max_players: 1
+  - name: "ARK: Survival Evolved"
+    min_players: 1
+    max_players: 1
+  - name: "ARK: Survival Of The Fittest"
+    min_players: 1
+    max_players: 1
+  - name: Arma 3
+    min_players: 1
+    max_players: 1
+  - name: Arma 3 Karts
+    min_players: 1
+    max_players: 1
+  - name: Arma 3 Malden
+    min_players: 1
+    max_players: 1
+  - name: Arma 3 Zeus
+    min_players: 1
+    max_players: 1
+  - name: Artemis Spaceship Bridge Simulator
+    min_players: 1
+    max_players: 1
+  - name: Assassin's Creed
+    min_players: 1
+    max_players: 1
+  - name: A Story About My Uncle
+    min_players: 1
+    max_players: 1
+  - name: ASTRONEER
+    min_players: 1
+    max_players: 1
+  - name: Audiosurf
+    min_players: 1
+    max_players: 1
+  - name: Autocraft
+    min_players: 1
+    max_players: 1
+  - name: "Avadon: The Black Fortress"
+    min_players: 1
+    max_players: 1
+  - name: A Virus Named TOM
+    min_players: 1
+    max_players: 1
+  - name: "Back to the Future: Ep 1 - It's About Time"
+    min_players: 1
+    max_players: 1
+  - name: "Back to the Future: Ep 2 - Get Tannen!"
+    min_players: 1
+    max_players: 1
+  - name: "Back to the Future: Ep 3 - Citizen Brown"
+    min_players: 1
+    max_players: 1
+  - name: "Back to the Future: Ep 4 - Double Visions"
+    min_players: 1
+    max_players: 1
+  - name: "Back to the Future: Ep 5 - OUTATIME"
+    min_players: 1
+    max_players: 1
+  - name: Bastion
+    min_players: 1
+    max_players: 1
+  - name: "Batman: Arkham Asylum GOTY Edition"
+    min_players: 1
+    max_players: 1
+  - name: "Batman: Arkham City GOTY"
+    min_players: 1
+    max_players: 1
+  - name: "Batman™: Arkham Knight"
+    min_players: 1
+    max_players: 1
+  - name: BATTLETECH
+    min_players: 1
+    max_players: 1
+  - name: Ben There, Dan That!
+    min_players: 1
+    max_players: 1
+  - name: Besiege
+    min_players: 1
+    max_players: 1
+  - name: BioShock Infinite
+    min_players: 1
+    max_players: 1
+  - name: BIT.TRIP BEAT
+    min_players: 1
+    max_players: 1
+  - name: BIT.TRIP RUNNER
+    min_players: 1
+    max_players: 1
+  - name: Blackguards 2
+    min_players: 1
+    max_players: 1
+  - name: Boid
+    min_players: 1
+    max_players: 1
+  - name: Borderlands 2
+    min_players: 1
+    max_players: 1
+  - name: "Borderlands: The Pre-Sequel"
+    min_players: 1
+    max_players: 1
+  - name: Bridge Constructor
+    min_players: 1
+    max_players: 1
+  - name: Bridge Constructor Portal
+    min_players: 1
+    max_players: 1
+  - name: Broforce
+    min_players: 1
+    max_players: 1
+  - name: "Broken Sword 1 - Shadow of the Templars: Director's Cut"
+    min_players: 1
+    max_players: 1
+  - name: Broken Sword 5 - the Serpent's Curse
+    min_players: 1
+    max_players: 1
+  - name: Brothers - A Tale of Two Sons
+    min_players: 1
+    max_players: 1
+  - name: Brütal Legend
+    min_players: 1
+    max_players: 1
+  - name: "Burnout Paradise: The Ultimate Box"
+    min_players: 1
+    max_players: 1
+  - name: Castle Crashers
+    min_players: 1
+    max_players: 1
+  - name: CAT Interstellar
+    min_players: 1
+    max_players: 1
+  - name: Caveblazers
+    min_players: 1
+    max_players: 1
+  - name: "Chivalry: Medieval Warfare"
+    min_players: 1
+    max_players: 1
+  - name: Circuits
+    min_players: 1
+    max_players: 1
+  - name: Cities in Motion 2
+    min_players: 1
+    max_players: 1
+  - name: "Cities: Skylines"
+    min_players: 1
+    max_players: 1
+  - name: Citizens of Earth
+    min_players: 1
+    max_players: 1
+  - name: Civilization VI - Aztec Civilization Pack
+    min_players: 1
+    max_players: 1
+  - name: Civilization V - Scrambled Continents Map Pack
+    min_players: 1
+    max_players: 1
+  - name: Clickteam Fusion 2.5
+    min_players: 1
+    max_players: 1
+  - name: Closure
+    min_players: 1
+    max_players: 1
+  - name: Clustertruck
+    min_players: 1
+    max_players: 1
+  - name: Coffee Crisis
+    min_players: 1
+    max_players: 1
+  - name: Coffin Dodgers
+    min_players: 1
+    max_players: 1
+  - name: Cogs
+    min_players: 1
+    max_players: 1
+  - name: Company of Heroes
+    min_players: 1
+    max_players: 1
+  - name: Company of Heroes - Legacy Edition
+    min_players: 1
+    max_players: 1
+  - name: "Company of Heroes: Opposing Fronts"
+    min_players: 1
+    max_players: 1
+  - name: "Company of Heroes: Tales of Valor"
+    min_players: 1
+    max_players: 1
+  - name: Contagion
+    min_players: 1
+    max_players: 1
+  - name: Contraption Maker
+    min_players: 1
+    max_players: 1
+  - name: "Counter-Strike: Global Offensive"
+    min_players: 1
+    max_players: 1
+  - name: "Counter-Strike: Source"
+    min_players: 1
+    max_players: 1
+  - name: Crawl
+    min_players: 1
+    max_players: 1
+  - name: Crayon Physics Deluxe
+    min_players: 1
+    max_players: 1
+  - name: Crysis 2 Maximum Edition
+    min_players: 1
+    max_players: 1
+  - name: Cuphead
+    min_players: 1
+    max_players: 1
+  - name: Darksiders
+    min_players: 1
+    max_players: 1
+  - name: Darksiders Warmastered Edition
+    min_players: 1
+    max_players: 1
+  - name: Day of the Tentacle Remastered
+    min_players: 1
+    max_players: 1
+  - name: DayZ
+    min_players: 1
+    max_players: 1
+  - name: Dead Cells
+    min_players: 1
+    max_players: 1
+  - name: Dead Space
+    min_players: 1
+    max_players: 1
+  - name: Death Ray Manta
+    min_players: 1
+    max_players: 1
+  - name: Death Road to Canada
+    min_players: 1
+    max_players: 1
+  - name: DEFCON
+    min_players: 1
+    max_players: 1
+  - name: Defense Grid 2
+    min_players: 1
+    max_players: 1
+  - name: "Defense Grid: The Awakening"
+    min_players: 1
+    max_players: 1
+  - name: Defense Technica
+    min_players: 1
+    max_players: 1
+  - name: "Deus Ex: Human Revolution"
+    min_players: 1
+    max_players: 1
+  - name: "Deus Ex: Human Revolution - The Missing Link"
+    min_players: 1
+    max_players: 1
+  - name: Dig or Die
+    min_players: 1
+    max_players: 1
+  - name: DiRT 3 Complete Edition
+    min_players: 1
+    max_players: 1
+  - name: Dishonored 2
+    min_players: 1
+    max_players: 1
+  - name: DisplayFusion
+    min_players: 1
+    max_players: 1
+  - name: "Divinity: Dragon Commander"
+    min_players: 1
+    max_players: 1
+  - name: Domina
+    min_players: 1
+    max_players: 1
+  - name: DOOM
+    min_players: 1
+    max_players: 1
+  - name: Door Kickers
+    min_players: 1
+    max_players: 1
+  - name: Door Kickers Soundtrack
+    min_players: 1
+    max_players: 1
+  - name: Dota 2
+    min_players: 1
+    max_players: 1
+  - name: Downward
+    min_players: 1
+    max_players: 1
+  - name: "Dragon Age: Origins"
+    min_players: 1
+    max_players: 1
+  - name: Drawful 2
+    min_players: 1
+    max_players: 1
+  - name: Dreamfall Chapters
+    min_players: 1
+    max_players: 1
+  - name: Droplitz
+    min_players: 1
+    max_players: 1
+  - name: Duck Game
+    min_players: 1
+    max_players: 1
+  - name: Dude, Stop
+    min_players: 1
+    max_players: 1
+  - name: Duet
+    min_players: 1
+    max_players: 1
+  - name: "Duke Nukem 3D: Megaton Edition"
+    min_players: 1
+    max_players: 1
+  - name: Dungeon Defenders
+    min_players: 1
+    max_players: 1
+  - name: Dungeon of the Endless
+    min_players: 1
+    max_players: 1
+  - name: Dungeon Souls
+    min_players: 1
+    max_players: 1
+  - name: Dustforce
+    min_players: 1
+    max_players: 1
+  - name: Dwarf Tower
+    min_players: 1
+    max_players: 1
+  - name: EDGE
+    min_players: 1
+    max_players: 1
+  - name: Eets Munchies
+    min_players: 1
+    max_players: 1
+  - name: Elite Dangerous
+    min_players: 1
+    max_players: 1
+  - name: Else Heart.Break()
+    min_players: 1
+    max_players: 1
+  - name: Endless Space
+    min_players: 1
+    max_players: 1
+  - name: Enter the Gungeon
+    min_players: 1
+    max_players: 1
+  - name: Eon Altar
+    min_players: 1
+    max_players: 1
+  - name: Epic Loon
+    min_players: 1
+    max_players: 1
+  - name: Eufloria
+    min_players: 1
+    max_players: 1
+  - name: Eufloria HD
+    min_players: 1
+    max_players: 1
+  - name: Eufloria HD Original Soundtrack
+    min_players: 1
+    max_players: 1
+  - name: Euro Truck Simulator 2
+    min_players: 1
+    max_players: 1
+  - name: EVE Online
+    min_players: 1
+    max_players: 1
+  - name: EVERSPACE™
+    min_players: 1
+    max_players: 1
+  - name: EXAPUNKS
+    min_players: 1
+    max_players: 1
+  - name: "EXAPUNKS: TEC Redshift Player"
+    min_players: 1
+    max_players: 1
+  - name: Face It - A game to fight inner demons
+    min_players: 1
+    max_players: 1
+  - name: Factorio
+    min_players: 1
+    max_players: 1
+  - name: "Fahrenheit: Indigo Prophecy Remastered"
+    min_players: 1
+    max_players: 1
+  - name: Fallout 4
+    min_players: 1
+    max_players: 1
+  - name: "Fallout: New Vegas"
+    min_players: 1
+    max_players: 1
+  - name: "Fallout New Vegas: Courier's Stash"
+    min_players: 1
+    max_players: 1
+  - name: "Fallout New Vegas: Dead Money"
+    min_players: 1
+    max_players: 1
+  - name: "Fallout New Vegas: Honest Hearts"
+    min_players: 1
+    max_players: 1
+  - name: Family Feud
+    min_players: 1
+    max_players: 1
+  - name: Family Feud 2
+    min_players: 1
+    max_players: 1
+  - name: "Family Feud 3: Dream Home"
+    min_players: 1
+    max_players: 1
+  - name: Family Feud 4
+    min_players: 1
+    max_players: 1
+  - name: Far Cry 2
+    min_players: 1
+    max_players: 1
+  - name: "Far Cry 2: Fortunes Pack"
+    min_players: 1
+    max_players: 1
+  - name: Far Cry® 3
+    min_players: 1
+    max_players: 1
+  - name: Far Cry® 3 Blood Dragon
+    min_players: 1
+    max_players: 1
+  - name: F.E.A.R.
+    min_players: 1
+    max_players: 1
+  - name: "F.E.A.R. 2: Project Origin"
+    min_players: 1
+    max_players: 1
+  - name: F.E.A.R. 3
+    min_players: 1
+    max_players: 1
+  - name: "F.E.A.R.: Extraction Point"
+    min_players: 1
+    max_players: 1
+  - name: "F.E.A.R.: Perseus Mandate"
+    min_players: 1
+    max_players: 1
+  - name: FEZ
+    min_players: 1
+    max_players: 1
+  - name: Fieldrunners
+    min_players: 1
+    max_players: 1
+  - name: Firewatch
+    min_players: 1
+    max_players: 1
+  - name: FORCED
+    min_players: 1
+    max_players: 1
+  - name: For The King
+    min_players: 1
+    max_players: 1
+  - name: "Fractal: Make Blooms Not War"
+    min_players: 1
+    max_players: 1
+  - name: Frozen Synapse
+    min_players: 1
+    max_players: 1
+  - name: "FTL: Faster Than Light"
+    min_players: 1
+    max_players: 1
+  - name: Full Mojo Rampage
+    min_players: 1
+    max_players: 1
+  - name: Galactic Civilizations III
+    min_players: 1
+    max_players: 1
+  - name: "Galactic Civilizations II: Ultimate Edition"
+    min_players: 1
+    max_players: 1
+  - name: Gang Beasts
+    min_players: 1
+    max_players: 1
+  - name: Garry's Mod
+    min_players: 1
+    max_players: 1
+  - name: Gauntlet
+    min_players: 1
+    max_players: 1
+  - name: GemCraft - Chasing Shadows
+    min_players: 1
+    max_players: 1
+  - name: Genital Jousting
+    min_players: 1
+    max_players: 1
+  - name: "Geometry Wars 3: Dimensions Evolved"
+    min_players: 1
+    max_players: 1
+  - name: "Geometry Wars: Retro Evolved"
+    min_players: 1
+    max_players: 1
+  - name: "Ghostbusters: The Video Game"
+    min_players: 1
+    max_players: 1
+  - name: Glitchspace
+    min_players: 1
+    max_players: 1
+  - name: Gods Will Be Watching
+    min_players: 1
+    max_players: 1
+  - name: Golf With Your Friends
+    min_players: 1
+    max_players: 1
+  - name: Grand Class Melee 2
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto 2
+    min_players: 1
+    max_players: 1
+  - name: "Grand Theft Auto: Episodes from Liberty City"
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto III
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto III
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto IV
+    min_players: 1
+    max_players: 1
+  - name: "Grand Theft Auto: San Andreas"
+    min_players: 1
+    max_players: 1
+  - name: "Grand Theft Auto: San Andreas"
+    min_players: 1
+    max_players: 1
+  - name: Grand Theft Auto V
+    min_players: 1
+    max_players: 1
+  - name: "Grand Theft Auto: Vice City"
+    min_players: 1
+    max_players: 1
+  - name: "Grand Theft Auto: Vice City"
+    min_players: 1
+    max_players: 1
+  - name: Gratuitous Space Battles
+    min_players: 1
+    max_players: 1
+  - name: GRAV
+    min_players: 1
+    max_players: 1
+  - name: Greed Corp
+    min_players: 1
+    max_players: 1
+  - name: Grim Fandango Remastered
+    min_players: 1
+    max_players: 1
+  - name: Guardians of Middle-earth
+    min_players: 1
+    max_players: 1
+  - name: Guns of Icarus Online
+    min_players: 1
+    max_players: 1
+  - name: Hacknet
+    min_players: 1
+    max_players: 1
+  - name: Hack 'n' Slash
+    min_players: 1
+    max_players: 1
+  - name: Half-Life 2
+    min_players: 1
+    max_players: 1
+  - name: "Half-Life 2: Deathmatch"
+    min_players: 1
+    max_players: 1
+  - name: "Half-Life 2: Episode One"
+    min_players: 1
+    max_players: 1
+  - name: "Half-Life 2: Episode Two"
+    min_players: 1
+    max_players: 1
+  - name: "Half-Life 2: Lost Coast"
+    min_players: 1
+    max_players: 1
+  - name: "Half-Life Deathmatch: Source"
+    min_players: 1
+    max_players: 1
+  - name: Hammerwatch
+    min_players: 1
+    max_players: 1
+  - name: "Hector: Ep 1"
+    min_players: 1
+    max_players: 1
+  - name: "Hector: Ep 2"
+    min_players: 1
+    max_players: 1
+  - name: "Hector: Ep 3"
+    min_players: 1
+    max_players: 1
+  - name: "Hellblade: Senua's Sacrifice"
+    min_players: 1
+    max_players: 1
+  - name: "Hellblade: Senua's Sacrifice VR Edition"
+    min_players: 1
+    max_players: 1
+  - name: HELLDIVERS™
+    min_players: 1
+    max_players: 1
+  - name: Hero Siege
+    min_players: 1
+    max_players: 1
+  - name: Her Story
+    min_players: 1
+    max_players: 1
+  - name: Home
+    min_players: 1
+    max_players: 1
+  - name: Homebrew - Patent Unknown
+    min_players: 1
+    max_players: 1
+  - name: Homeworld Remastered Collection
+    min_players: 1
+    max_players: 1
+  - name: Hotline Miami
+    min_players: 1
+    max_players: 1
+  - name: "Hotline Miami 2: Wrong Number"
+    min_players: 1
+    max_players: 1
+  - name: House Party
+    min_players: 1
+    max_players: 1
+  - name: HTML5 Exporter for Clickteam Fusion 2.5
+    min_players: 1
+    max_players: 1
+  - name: Hue
+    min_players: 1
+    max_players: 1
+  - name: Human Resource Machine
+    min_players: 1
+    max_players: 1
+  - name: Hyper Light Drifter
+    min_players: 1
+    max_players: 1
+  - name: Ichi
+    min_players: 1
+    max_players: 1
+  - name: Incredipede
+    min_players: 1
+    max_players: 1
+  - name: "Indie Game: The Movie"
+    min_players: 1
+    max_players: 1
+  - name: Indigo Prophecy
+    min_players: 1
+    max_players: 1
+  - name: "Infectonator : Survivors"
+    min_players: 1
+    max_players: 1
+  - name: Infinifactory
+    min_players: 1
+    max_players: 1
+  - name: InnerSpace
+    min_players: 1
+    max_players: 1
+  - name: Insurgency
+    min_players: 1
+    max_players: 1
+  - name: Invisible, Inc.
+    min_players: 1
+    max_players: 1
+  - name: Jamestown
+    min_players: 1
+    max_players: 1
+  - name: "Jotun: Valhalla Edition"
+    min_players: 1
+    max_players: 1
+  - name: Jurassic World Evolution
+    min_players: 1
+    max_players: 1
+  - name: Just Cause 2
+    min_players: 1
+    max_players: 1
+  - name: Just Cause 3
+    min_players: 1
+    max_players: 1
+  - name: Kerbal Space Program
+    min_players: 1
+    max_players: 1
+  - name: "Kerbal Space Program: Making History Expansion"
+    min_players: 1
+    max_players: 1
+  - name: "Kingdom Come: Deliverance"
+    min_players: 1
+    max_players: 1
+  - name: Knight Squad
+    min_players: 1
+    max_players: 1
+  - name: Kung Fury
+    min_players: 1
+    max_players: 1
+  - name: L.A. Noire
+    min_players: 1
+    max_players: 1
+  - name: Left 4 Dead 2
+    min_players: 1
+    max_players: 1
+  - name: Legend of Grimrock
+    min_players: 1
+    max_players: 1
+  - name: "Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded"
+    min_players: 1
+    max_players: 1
+  - name: Life is Strange™
+    min_players: 1
+    max_players: 1
+  - name: LIMBO
+    min_players: 1
+    max_players: 1
+  - name: Lords of the Realm II
+    min_players: 1
+    max_players: 1
+  - name: Lovers in a Dangerous Spacetime
+    min_players: 1
+    max_players: 1
+  - name: Luxor 3
+    min_players: 1
+    max_players: 1
+  - name: Machinarium
+    min_players: 1
+    max_players: 1
+  - name: Magic 2014
+    min_players: 1
+    max_players: 1
+  - name: Magicite
+    min_players: 1
+    max_players: 1
+  - name: "Magic: The Gathering - Duels of the Planeswalkers 2013"
+    min_players: 1
+    max_players: 1
+  - name: Mainlining
+    min_players: 1
+    max_players: 1
+  - name: "Marble Mayhem: Fragile Ball"
+    min_players: 1
+    max_players: 1
+  - name: "Marc Eckō's Getting Up: Contents Under Pressure"
+    min_players: 1
+    max_players: 1
+  - name: Mark of the Ninja
+    min_players: 1
+    max_players: 1
+  - name: Marmoset Hexels 3
+    min_players: 1
+    max_players: 1
+  - name: Master of Orion
+    min_players: 1
+    max_players: 1
+  - name: Master of Orion 1
+    min_players: 1
+    max_players: 1
+  - name: Master of Orion 2
+    min_players: 1
+    max_players: 1
+  - name: Master of Orion 3
+    min_players: 1
+    max_players: 1
+  - name: Max Payne 3
+    min_players: 1
+    max_players: 1
+  - name: Medal of Honor Pre-Order
+    min_players: 1
+    max_players: 1
+  - name: Medal of Honor(TM) Multiplayer
+    min_players: 1
+    max_players: 1
+  - name: Medal of Honor(TM) Single Player
+    min_players: 1
+    max_players: 1
+  - name: Medieval Engineers
+    min_players: 1
+    max_players: 1
+  - name: "METAL GEAR SOLID V: GROUND ZEROES"
+    min_players: 1
+    max_players: 1
+  - name: Metro 2033
+    min_players: 1
+    max_players: 1
+  - name: Metro 2033 Redux
+    min_players: 1
+    max_players: 1
+  - name: "Metro: Last Light"
+    min_players: 1
+    max_players: 1
+  - name: "Metro: Last Light Redux"
+    min_players: 1
+    max_players: 1
+  - name: "Microsoft Flight Simulator X: Steam Edition"
+    min_players: 1
+    max_players: 1
+  - name: "Middle-earth™: Shadow of Mordor™"
+    min_players: 1
+    max_players: 1
+  - name: Mini Metro
+    min_players: 1
+    max_players: 1
+  - name: Mirror's Edge
+    min_players: 1
+    max_players: 1
+  - name: Monaco
+    min_players: 1
+    max_players: 1
+  - name: Mortal Kombat Kollection
+    min_players: 1
+    max_players: 1
+  - name: Mortal Kombat X
+    min_players: 1
+    max_players: 1
+  - name: Mother Russia Bleeds
+    min_players: 1
+    max_players: 1
+  - name: "Mount & Blade: Warband"
+    min_players: 1
+    max_players: 1
+  - name: Mount Your Friends
+    min_players: 1
+    max_players: 1
+  - name: Move or Die
+    min_players: 1
+    max_players: 1
+  - name: N++
+    min_players: 1
+    max_players: 1
+  - name: Natural Selection 2
+    min_players: 1
+    max_players: 1
+  - name: Never Alone (Kisima Ingitchuna)
+    min_players: 1
+    max_players: 1
+  - name: "Never Alone: Original Soundtrack"
+    min_players: 1
+    max_players: 1
+  - name: Nidhogg
+    min_players: 1
+    max_players: 1
+  - name: Nimbatus - The Space Drone Constructor
+    min_players: 1
+    max_players: 1
+  - name: Oh My Godheads
+    min_players: 1
+    max_players: 1
+  - name: Omerta - City of Gangsters
+    min_players: 1
+    max_players: 1
+  - name: One More Line
+    min_players: 1
+    max_players: 1
+  - name: On the Rain-Slick Precipice of Darkness, Episode One
+    min_players: 1
+    max_players: 1
+  - name: On the Rain-Slick Precipice of Darkness, Episode Two
+    min_players: 1
+    max_players: 1
+  - name: Opus Magnum
+    min_players: 1
+    max_players: 1
+  - name: "Organ Trail: Director's Cut"
+    min_players: 1
+    max_players: 1
+  - name: Ori and the Blind Forest
+    min_players: 1
+    max_players: 1
+  - name: Orwell
+    min_players: 1
+    max_players: 1
+  - name: Osmos
+    min_players: 1
+    max_players: 1
+  - name: Outlast
+    min_players: 1
+    max_players: 1
+  - name: Override
+    min_players: 1
+    max_players: 1
+  - name: Oxenfree
+    min_players: 1
+    max_players: 1
+  - name: PARTICLE MACE
+    min_players: 1
+    max_players: 1
+  - name: Party Hard
+    min_players: 1
+    max_players: 1
+  - name: PAYDAY 2
+    min_players: 1
+    max_players: 1
+  - name: Peggle Deluxe
+    min_players: 1
+    max_players: 1
+  - name: Pit People
+    min_players: 1
+    max_players: 1
+  - name: Pixel Piracy
+    min_players: 1
+    max_players: 1
+  - name: Planetary Annihilation
+    min_players: 1
+    max_players: 1
+  - name: "Plants vs. Zombies: Game of the Year"
+    min_players: 1
+    max_players: 1
+  - name: Poker Night at the Inventory
+    min_players: 1
+    max_players: 1
+  - name: Polarity
+    min_players: 1
+    max_players: 1
+  - name: Poly Bridge
+    min_players: 1
+    max_players: 1
+  - name: Pony Island
+    min_players: 1
+    max_players: 1
+  - name: Portal
+    min_players: 1
+    max_players: 1
+  - name: Portal 2
+    min_players: 1
+    max_players: 1
+  - name: "Portal Stories: Mel"
+    min_players: 1
+    max_players: 1
+  - name: Prey
+    min_players: 1
+    max_players: 1
+  - name: Prince of Persia
+    min_players: 1
+    max_players: 1
+  - name: Prison Architect
+    min_players: 1
+    max_players: 1
+  - name: Project Zomboid
+    min_players: 1
+    max_players: 1
+  - name: Psychonauts
+    min_players: 1
+    max_players: 1
+  - name: Psychonauts Demo
+    min_players: 1
+    max_players: 1
+  - name: Puzzle Agent
+    min_players: 1
+    max_players: 1
+  - name: Puzzle Agent 2
+    min_players: 1
+    max_players: 1
+  - name: Quadrilateral Cowboy
+    min_players: 1
+    max_players: 1
+  - name: Quake
+    min_players: 1
+    max_players: 1
+  - name: Quake Champions
+    min_players: 1
+    max_players: 1
+  - name: Quake Live
+    min_players: 1
+    max_players: 1
+  - name: RAGE
+    min_players: 1
+    max_players: 1
+  - name: Rainbow Six Siege - Ultra HD Texture Pack
+    min_players: 1
+    max_players: 1
+  - name: Rampage Knights
+    min_players: 1
+    max_players: 1
+  - name: Rayman Legends
+    min_players: 1
+    max_players: 1
+  - name: "Red Faction: Armageddon"
+    min_players: 1
+    max_players: 1
+  - name: Red Faction Guerrilla Re-Mars-tered
+    min_players: 1
+    max_players: 1
+  - name: "Red Faction: Guerrilla Steam Edition"
+    min_players: 1
+    max_players: 1
+  - name: "Redout: Enhanced Edition"
+    min_players: 1
+    max_players: 1
+  - name: Retro City Rampage™ DX
+    min_players: 1
+    max_players: 1
+  - name: Revenge of the Titans
+    min_players: 1
+    max_players: 1
+  - name: RimWorld
+    min_players: 1
+    max_players: 1
+  - name: Rise of the Tomb Raider
+    min_players: 1
+    max_players: 1
+  - name: Risk of Rain
+    min_players: 1
+    max_players: 1
+  - name: Robocraft
+    min_players: 1
+    max_players: 1
+  - name: Rochard
+    min_players: 1
+    max_players: 1
+  - name: "Rocketbirds: Hardboiled Chicken"
+    min_players: 1
+    max_players: 1
+  - name: Rocket League
+    min_players: 1
+    max_players: 1
+  - name: "Safecracker: The Ultimate Puzzle Adventure"
+    min_players: 1
+    max_players: 1
+  - name: "Saints Row: The Third"
+    min_players: 1
+    max_players: 1
+  - name: Salt
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 101: Culture Shock"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 102: Situation: Comedy"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 103: The Mole, the Mob and the Meatball"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 301: The Penal Zone"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 302: The Tomb of Sammun-Mak"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 303: They Stole Max's Brain!"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 304: Beyond the Alley of the Dolls"
+    min_players: 1
+    max_players: 1
+  - name: "Sam & Max 305: The City that Dares not Sleep"
+    min_players: 1
+    max_players: 1
+  - name: Sanctum
+    min_players: 1
+    max_players: 1
+  - name: Sanctum 2
+    min_players: 1
+    max_players: 1
+  - name: Scrap Mechanic
+    min_players: 1
+    max_players: 1
+  - name: Screeps
+    min_players: 1
+    max_players: 1
+  - name: Scribblenauts Unlimited
+    min_players: 1
+    max_players: 1
+  - name: "Serious Sam 3: BFE"
+    min_players: 1
+    max_players: 1
+  - name: Serious Sam Fusion 2017 (beta)
+    min_players: 1
+    max_players: 1
+  - name: "Shadowgate: MacVenture Series"
+    min_players: 1
+    max_players: 1
+  - name: "Shadowrun: Dragonfall - Director's Cut"
+    min_players: 1
+    max_players: 1
+  - name: "Shadowrun: Hong Kong - Extended Edition"
+    min_players: 1
+    max_players: 1
+  - name: Shadowrun Returns
+    min_players: 1
+    max_players: 1
+  - name: Shadow Warrior
+    min_players: 1
+    max_players: 1
+  - name: Shadow Warrior Classic Redux
+    min_players: 1
+    max_players: 1
+  - name: Shank 2
+    min_players: 1
+    max_players: 1
+  - name: Shatter
+    min_players: 1
+    max_players: 1
+  - name: ShellShock Live
+    min_players: 1
+    max_players: 1
+  - name: SHENZHEN I/O
+    min_players: 1
+    max_players: 1
+  - name: SHENZHEN SOLITAIRE
+    min_players: 1
+    max_players: 1
+  - name: She Remembered Caterpillars
+    min_players: 1
+    max_players: 1
+  - name: Sid Meier's Civilization V
+    min_players: 1
+    max_players: 1
+  - name: "Sid Meier's Civilization V: Brave New World"
+    min_players: 1
+    max_players: 1
+  - name: Sid Meier's Civilization VI
+    min_players: 1
+    max_players: 1
+  - name: SimpleRockets
+    min_players: 1
+    max_players: 1
+  - name: Skyrim High Resolution Texture Pack
+    min_players: 1
+    max_players: 1
+  - name: Small World 2
+    min_players: 1
+    max_players: 1
+  - name: Small World 2 - Be Not Afraid...
+    min_players: 1
+    max_players: 1
+  - name: Small World 2 - Cursed!
+    min_players: 1
+    max_players: 1
+  - name: Small World 2 - Grand Dames
+    min_players: 1
+    max_players: 1
+  - name: Snapshot
+    min_players: 1
+    max_players: 1
+  - name: Songbringer
+    min_players: 1
+    max_players: 1
+  - name: Songbringer - The Trial of Ren
+    min_players: 1
+    max_players: 1
+  - name: "South Park™: The Stick of Truth™"
+    min_players: 1
+    max_players: 1
+  - name: Spacebase DF-9
+    min_players: 1
+    max_players: 1
+  - name: SpaceChem
+    min_players: 1
+    max_players: 1
+  - name: Space Engineers
+    min_players: 1
+    max_players: 1
+  - name: Space Hulk
+    min_players: 1
+    max_players: 1
+  - name: Space Pirates and Zombies
+    min_players: 1
+    max_players: 1
+  - name: Sparkle Unleashed
+    min_players: 1
+    max_players: 1
+  - name: "Spintires: The Original Game"
+    min_players: 1
+    max_players: 1
+  - name: Spirits
+    min_players: 1
+    max_players: 1
+  - name: Spirits of Xanadu
+    min_players: 1
+    max_players: 1
+  - name: Splatter - Blood Red Edition
+    min_players: 1
+    max_players: 1
+  - name: Splice
+    min_players: 1
+    max_players: 1
+  - name: "Spriter: Adventure Platformer Pack"
+    min_players: 1
+    max_players: 1
+  - name: "Spriter: Basic Platformer Pack"
+    min_players: 1
+    max_players: 1
+  - name: "Spriter: Game Effects Pack"
+    min_players: 1
+    max_players: 1
+  - name: Spriter Pro
+    min_players: 1
+    max_players: 1
+  - name: "Spriter: Run N' Gun Pack"
+    min_players: 1
+    max_players: 1
+  - name: Squirrel Sphere
+    min_players: 1
+    max_players: 1
+  - name: "S.T.A.L.K.E.R.: Clear Sky"
+    min_players: 1
+    max_players: 1
+  - name: Starbound
+    min_players: 1
+    max_players: 1
+  - name: Starbound - Unstable
+    min_players: 1
+    max_players: 1
+  - name: Stardew Valley
+    min_players: 1
+    max_players: 1
+  - name: StarMade
+    min_players: 1
+    max_players: 1
+  - name: "Star Trek™: Starfleet Academy"
+    min_players: 1
+    max_players: 1
+  - name: "STAR WARS™: Knights of the Old Republic™"
+    min_players: 1
+    max_players: 1
+  - name: Stealth Bastard Deluxe
+    min_players: 1
+    max_players: 1
+  - name: Steam Marines
+    min_players: 1
+    max_players: 1
+  - name: "Stick Fight: The Game"
+    min_players: 1
+    max_players: 1
+  - name: Streets of Rogue
+    min_players: 1
+    max_players: 1
+  - name: Subnautica
+    min_players: 1
+    max_players: 1
+  - name: Sunless Sea
+    min_players: 1
+    max_players: 1
+  - name: "Superbrothers: Sword & Sworcery EP"
+    min_players: 1
+    max_players: 1
+  - name: Super Meat Boy
+    min_players: 1
+    max_players: 1
+  - name: Super Motherload
+    min_players: 1
+    max_players: 1
+  - name: Supreme Commander
+    min_players: 1
+    max_players: 1
+  - name: "Supreme Commander: Forged Alliance"
+    min_players: 1
+    max_players: 1
+  - name: Swords and Soldiers HD
+    min_players: 1
+    max_players: 1
+  - name: Taimumari
+    min_players: 1
+    max_players: 1
+  - name: "Tales from Candlekeep: Tomb of Annihilation"
+    min_players: 1
+    max_players: 1
+  - name: Team Fortress 2
+    min_players: 1
+    max_players: 1
+  - name: Team Fortress 2 Beta
+    min_players: 1
+    max_players: 1
+  - name: TERA
+    min_players: 1
+    max_players: 1
+  - name: Terraria
+    min_players: 1
+    max_players: 1
+  - name: Tesla Effect
+    min_players: 1
+    max_players: 1
+  - name: Teslagrad
+    min_players: 1
+    max_players: 1
+  - name: The Bard's Tale
+    min_players: 1
+    max_players: 1
+  - name: The Binding of Isaac
+    min_players: 1
+    max_players: 1
+  - name: "The Binding of Isaac: Rebirth"
+    min_players: 1
+    max_players: 1
+  - name: "The Chronicles of Riddick: Assault on Dark Athena"
+    min_players: 1
+    max_players: 1
+  - name: "The Elder Scrolls V: Skyrim"
+    min_players: 1
+    max_players: 1
+  - name: "The Elder Scrolls V: Skyrim - Dawnguard"
+    min_players: 1
+    max_players: 1
+  - name: "The Elder Scrolls V: Skyrim - Dragonborn"
+    min_players: 1
+    max_players: 1
+  - name: "The Elder Scrolls V: Skyrim - Hearthfire"
+    min_players: 1
+    max_players: 1
+  - name: "The Elder Scrolls V: Skyrim Special Edition"
+    min_players: 1
+    max_players: 1
+  - name: The Jackbox Party Pack
+    min_players: 1
+    max_players: 1
+  - name: The Jackbox Party Pack 2
+    min_players: 1
+    max_players: 1
+  - name: The Jackbox Party Pack 3
+    min_players: 1
+    max_players: 1
+  - name: The Jackbox Party Pack 4
+    min_players: 1
+    max_players: 1
+  - name: The Jackbox Party Pack 5
+    min_players: 1
+    max_players: 1
+  - name: The Long Dark
+    min_players: 1
+    max_players: 1
+  - name: "The Lord of the Rings: War in the North"
+    min_players: 1
+    max_players: 1
+  - name: The Stanley Parable
+    min_players: 1
+    max_players: 1
+  - name: The Talos Principle
+    min_players: 1
+    max_players: 1
+  - name: "The Talos Principle: Road To Gehenna"
+    min_players: 1
+    max_players: 1
+  - name: The Vanishing of Ethan Carter
+    min_players: 1
+    max_players: 1
+  - name: The Vanishing of Ethan Carter Redux
+    min_players: 1
+    max_players: 1
+  - name: The Walking Dead
+    min_players: 1
+    max_players: 1
+  - name: "The Walking Dead: Michonne"
+    min_players: 1
+    max_players: 1
+  - name: "The Walking Dead: Season Two"
+    min_players: 1
+    max_players: 1
+  - name: "The Witcher 2: Assassins of Kings Enhanced Edition"
+    min_players: 1
+    max_players: 1
+  - name: "The Witcher 3: Wild Hunt"
+    min_players: 1
+    max_players: 1
+  - name: "The Witcher 3: Wild Hunt - Expansion Pass"
+    min_players: 1
+    max_players: 1
+  - name: "The Witcher 3: Wild Hunt - New Finisher Animations"
+    min_players: 1
+    max_players: 1
+  - name: The Witness
+    min_players: 1
+    max_players: 1
+  - name: The Wolf Among Us
+    min_players: 1
+    max_players: 1
+  - name: This Is the Police
+    min_players: 1
+    max_players: 1
+  - name: This Is the Police 2
+    min_players: 1
+    max_players: 1
+  - name: This War of Mine
+    min_players: 1
+    max_players: 1
+  - name: Thumper
+    min_players: 1
+    max_players: 1
+  - name: Ticket to Ride
+    min_players: 1
+    max_players: 1
+  - name: Ticket to Ride - Europe
+    min_players: 1
+    max_players: 1
+  - name: Ticket to Ride - USA 1910
+    min_players: 1
+    max_players: 1
+  - name: Time Gentlemen, Please!
+    min_players: 1
+    max_players: 1
+  - name: "Tiny Bridge: Ratventure"
+    min_players: 1
+    max_players: 1
+  - name: TIS-100
+    min_players: 1
+    max_players: 1
+  - name: Titan Quest
+    min_players: 1
+    max_players: 1
+  - name: Titan Quest Anniversary Edition
+    min_players: 1
+    max_players: 1
+  - name: Titan Souls
+    min_players: 1
+    max_players: 1
+  - name: Tomb Raider
+    min_players: 1
+    max_players: 1
+  - name: Tom Clancy's Ghost Recon Phantoms - NA
+    min_players: 1
+    max_players: 1
+  - name: Tom Clancy's Rainbow Six Siege
+    min_players: 1
+    max_players: 1
+  - name: Tom Clancy's Rainbow Six Siege - Test Server
+    min_players: 1
+    max_players: 1
+  - name: "Tom Clancy's Rainbow Six: Vegas"
+    min_players: 1
+    max_players: 1
+  - name: Torchlight
+    min_players: 1
+    max_players: 1
+  - name: "Torment: Tides of Numenera"
+    min_players: 1
+    max_players: 1
+  - name: Trailmakers
+    min_players: 1
+    max_players: 1
+  - name: Train Simulator
+    min_players: 1
+    max_players: 1
+  - name: "Train Simulator: Sheerness Branch Extension Route"
+    min_players: 1
+    max_players: 1
+  - name: "Train Simulator: Southern Pacific SD70M Loco"
+    min_players: 1
+    max_players: 1
+  - name: Transistor
+    min_players: 1
+    max_players: 1
+  - name: Tricky Towers
+    min_players: 1
+    max_players: 1
+  - name: Trine 2
+    min_players: 1
+    max_players: 1
+  - name: "Trine 3: The Artifacts of Power"
+    min_players: 1
+    max_players: 1
+  - name: Tropico 4
+    min_players: 1
+    max_players: 1
+  - name: Tropico 5
+    min_players: 1
+    max_players: 1
+  - name: Turmoil
+    min_players: 1
+    max_players: 1
+  - name: Ultimate Chicken Horse
+    min_players: 1
+    max_players: 1
+  - name: "Ultimate General: Gettysburg"
+    min_players: 1
+    max_players: 1
+  - name: "Unreal Tournament 3: Black Edition"
+    min_players: 1
+    max_players: 1
+  - name: Uplink
+    min_players: 1
+    max_players: 1
+  - name: Vessel
+    min_players: 1
+    max_players: 1
+  - name: Victor Vran
+    min_players: 1
+    max_players: 1
+  - name: "Viscera Cleanup Detail: Shadow Warrior"
+    min_players: 1
+    max_players: 1
+  - name: "Wallace & Gromit Ep 1: Fright of the Bumblebees"
+    min_players: 1
+    max_players: 1
+  - name: "Wallace & Gromit Ep 2: The Last Resort"
+    min_players: 1
+    max_players: 1
+  - name: "Wallace & Gromit Ep 3: Muzzled!"
+    min_players: 1
+    max_players: 1
+  - name: "Wallace & Gromit Ep 4: The Bogey Man"
+    min_players: 1
+    max_players: 1
+  - name: Wallpaper Engine
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War - Dark Crusade"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War - Game of the Year Edition"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War II"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War II - Chaos Rising"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War II - Retribution"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War - Soulstorm"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Dawn of War - Winter Assault"
+    min_players: 1
+    max_players: 1
+  - name: "Warhammer 40,000: Storm of Vengeance: Deathwing Terminator"
+    min_players: 1
+    max_players: 1
+  - name: Wasteland 2
+    min_players: 1
+    max_players: 1
+  - name: "Wasteland 2: Director's Cut"
+    min_players: 1
+    max_players: 1
+  - name: Watch_Dogs 2
+    min_players: 1
+    max_players: 1
+  - name: WayOut
+    min_players: 1
+    max_players: 1
+  - name: "Westerado: Double Barreled"
+    min_players: 1
+    max_players: 1
+  - name: Wizorb
+    min_players: 1
+    max_players: 1
+  - name: "Wolfenstein: The New Order"
+    min_players: 1
+    max_players: 1
+  - name: World of Goo
+    min_players: 1
+    max_players: 1
+  - name: Worms Armageddon
+    min_players: 1
+    max_players: 1
+  - name: Worms Clan Wars
+    min_players: 1
+    max_players: 1
+  - name: Worms Reloaded
+    min_players: 1
+    max_players: 1
+  - name: Worms Revolution
+    min_players: 1
+    max_players: 1
+  - name: Worms World Party Remastered
+    min_players: 1
+    max_players: 1
+  - name: "X2: The Threat"
+    min_players: 1
+    max_players: 1
+  - name: "X3: Albion Prelude"
+    min_players: 1
+    max_players: 1
+  - name: "X3: Reunion"
+    min_players: 1
+    max_players: 1
+  - name: "X3: Terran Conflict"
+    min_players: 1
+    max_players: 1
+  - name: "X: Beyond the Frontier"
+    min_players: 1
+    max_players: 1
+  - name: XCOM 2
+    min_players: 1
+    max_players: 1
+  - name: "XCOM 2: Alien Hunters"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM 2: Anarchy's Children"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM 2: Digital Soundtrack"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM 2: Reinforcement Pack"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM 2: Shen's Last Gift"
+    min_players: 1
+    max_players: 1
+  - name: "X-COM: Apocalypse"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM: Enemy Unknown"
+    min_players: 1
+    max_players: 1
+  - name: "XCOM: Enemy Within"
+    min_players: 1
+    max_players: 1
+  - name: "X-COM: Enforcer"
+    min_players: 1
+    max_players: 1
+  - name: "X-COM: Interceptor"
+    min_players: 1
+    max_players: 1
+  - name: "X-COM: Terror from the Deep"
+    min_players: 1
+    max_players: 1
+  - name: "X-COM: UFO Defense"
+    min_players: 1
+    max_players: 1
+  - name: Xenonauts
+    min_players: 1
+    max_players: 1
+  - name: X-Tension
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK HEADRUSH
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK MOVIES
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK SPORTS
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK TELEVISION
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK Vol. 1 XL
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK Vol. 2
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK Vol. 3
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK Vol. 4 The Ride
+    min_players: 1
+    max_players: 1
+  - name: YOU DON'T KNOW JACK Vol. 6 The Lost Gold
+    min_players: 1
+    max_players: 1
+  - name: Zen Bound® 2
+    min_players: 1
+    max_players: 1
+  - name: Zombie Party
+    min_players: 1
+    max_players: 1
