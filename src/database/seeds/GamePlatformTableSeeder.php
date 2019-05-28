@@ -17,9 +17,7 @@ class GamePlatformTableSeeder extends Seeder
             $platform = App\Platform::firstOrCreate(array('name' => $platformName));
             foreach ($platformGameData as $gameData) {
                 $game = App\Game::firstOrCreate($gameData);
-                $platformIds = $game->platforms()->pluck('platform_id')->toArray();
-                array_push($platformIds, $platform->id);
-                $game->platforms()->sync($platformIds);
+                $game->platforms()->syncWithoutDetaching($platform->id);
             }
         }
     }
