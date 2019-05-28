@@ -1,4 +1,11 @@
 ---
+"Nintendo Switch":
+  - name: Super Mario Odyssey
+    min_players: 1
+    max_players: 2
+  - name: Nidhogg 2
+    min_players: 1
+    max_players: 2
 PC:
   - name: 3DMark
     min_players: 1
@@ -896,7 +903,10 @@ PC:
     max_players: 1
   - name: Nidhogg
     min_players: 1
-    max_players: 1
+    max_players: 8
+  - name: Nidhogg 2
+    min_players: 1
+    max_players: 2
   - name: Nimbatus - The Space Drone Constructor
     min_players: 1
     max_players: 1
