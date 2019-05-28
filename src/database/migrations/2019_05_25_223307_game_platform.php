@@ -27,8 +27,8 @@ class GamePlatform extends Migration
         Schema::create('game_platform', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('game_id')->unsigned()->index();
-            $table->integer('platform_id')->unsigned()->index();
             $table->foreign('game_id')->references('id')->on('games');
+            $table->integer('platform_id')->unsigned()->index();
             $table->foreign('platform_id')->references('id')->on('platforms');
         });
     }
