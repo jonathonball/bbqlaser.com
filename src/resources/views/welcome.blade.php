@@ -97,6 +97,9 @@
             <li>
               <a href="https://cornerofattention.com"><img class="logo" src="{{ asset('images/Tumblr_Logos_2018.03.06_t Icon Black.png') }}"/></a>
             </li>
+            <li>
+              <a href="https://jonathonball.com"><img class="logo" src="{{ asset('images/jball-port.jpg') }}"/></a>
+            </li>
           </ul>
         </div>
       </div>
