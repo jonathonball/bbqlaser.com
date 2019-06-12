@@ -13,19 +13,25 @@
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
 
     <style>
+      html, body {
+        height: 100%;
+      }
+      .fill {
+        min-height: 100%;
+      }
       .logo {
         max-height: 50px;
       }
     </style>
   </head>
   <body>
-    <div class="container-fluid">
-      <div class="row justify-content-center">
-        <div class="col-8 py-3">
-          <img class="mx-auto d-block" src="{{ asset('images/carlton.gif') }}" width="242px" title="Alfonso Ribeiro's projection of joy depicted here; warms my heart."/>
+    <div class="container-fluid fill d-flex flex-column">
+      <div class="row justify-content-center flex-grow-1">
+        <div class="col-8 py-3 align-self-center">
+          <img class="mx-auto d-block img-fluid" src="{{ asset('images/carlton.gif') }}" width="242px" title="Alfonso Ribeiro's projection of joy depicted here; warms my heart."/>
         </div>
       </div>
-      <div class="row justify-content-center">
+      <div class="row justify-content-center flex-grow-1">
         <div class="col-xs-1 p-2">
           <a href="https://www.instagram.com/jonathonball/"><img class="logo" src="{{ asset('images/glyph-logo_May2016.png') }}"/></a>
         </div>
