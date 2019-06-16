@@ -3,12 +3,14 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\ImageLink;
 
 class LandingController extends Controller
 {
 
     function index() {
-        return view('welcome');
+        $icons = ImageLink::all();
+        return view('welcome', [ 'icons' => $icons ]);
     }
 
 }
