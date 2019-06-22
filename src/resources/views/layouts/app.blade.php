@@ -19,6 +19,9 @@
       .logo {
         max-height: 50px;
       }
+      .naked-h3 {
+        font-size: 1.3rem;
+      }
     </style>
   </head>
   <body>

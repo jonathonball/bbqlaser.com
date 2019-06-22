@@ -7,24 +7,6 @@
     min_players: 1
     max_players: 2
 PC:
-  - name: 3DMark
-    min_players: 1
-    max_players: 1
-  - name: 3DMark API Overhead feature test
-    min_players: 1
-    max_players: 1
-  - name: 3DMark Cloud Gate benchmark
-    min_players: 1
-    max_players: 1
-  - name: 3DMark Fire Strike benchmark
-    min_players: 1
-    max_players: 1
-  - name: 3DMark Ice Storm benchmark
-    min_players: 1
-    max_players: 1
-  - name: 3DMark Sky Diver benchmark
-    min_players: 1
-    max_players: 1
   - name: 7 Billion Humans
     min_players: 1
     max_players: 1
@@ -689,9 +671,6 @@ PC:
     min_players: 1
     max_players: 1
   - name: House Party
-    min_players: 1
-    max_players: 1
-  - name: HTML5 Exporter for Clickteam Fusion 2.5
     min_players: 1
     max_players: 1
   - name: Hue
@@ -1474,13 +1453,7 @@ PC:
   - name: Tomb Raider
     min_players: 1
     max_players: 1
-  - name: Tom Clancy's Ghost Recon Phantoms - NA
-    min_players: 1
-    max_players: 1
   - name: Tom Clancy's Rainbow Six Siege
-    min_players: 1
-    max_players: 1
-  - name: Tom Clancy's Rainbow Six Siege - Test Server
     min_players: 1
     max_players: 1
   - name: "Tom Clancy's Rainbow Six: Vegas"
@@ -1556,9 +1529,6 @@ PC:
     min_players: 1
     max_players: 1
   - name: "Wallace & Gromit Ep 4: The Bogey Man"
-    min_players: 1
-    max_players: 1
-  - name: Wallpaper Engine
     min_players: 1
     max_players: 1
   - name: "Warhammer 40,000: Dawn of War - Dark Crusade"

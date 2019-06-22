@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'LandingController@index');
+
+Route::get('/games', 'GamesController@index');
