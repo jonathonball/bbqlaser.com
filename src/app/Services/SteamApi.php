@@ -16,11 +16,11 @@ class SteamApi {
     private function getJsonResponse($response)
     {
         if ($response->getStatusCode() == 200) {
-          $responseData = $response->getBody()->getContents();
-          $jsonData = json_decode($responseData, true);
-          return $jsonData['response'];
+            $responseData = $response->getBody()->getContents();
+            $jsonData = json_decode($responseData, true);
+            return $jsonData;
         }
-        abort(500);
+        abort($response->getStatusCode(), $response->getReasonPhrase());
     }
 
     /**
@@ -35,20 +35,11 @@ class SteamApi {
             'query' => [
                 'key' => config('services.steam.key'),
                 'steamid' => config('services.steam.user'),
+                'include_appinfo' => true,
                 'format' => 'json',
             ]
         ]);
         return $this->getJsonResponse($response);
-    }
-
-    /**
-     * Implements
-     * http://store.steampowered.com/api/appdetails/?appids=${game.appid}
-     */
-    public function appDetails()
-    {
-        $client = new Client();
-        $url = 'http://store.steampowered.com/api/appdetails';
     }
 
 }
