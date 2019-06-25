@@ -12,13 +12,8 @@
             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"><strong>Players</strong></li>
-            <li class="list-group-item">Minimum: {{ $game->min_players }}</li>
-            <li class="list-group-item">Maximum: {{ $game->max_players }}</li>
-            <li class="list-group-item"><strong>Platforms</strong></li>
-            @foreach($game->platforms as $platform)
-            <li class="list-group-item">{{ $platform->name }}</li>
-            @endforeach
+            <li class="list-group-item"><strong>Content</strong></li>
+            <li class="list-group-item">Goes here.</li>
           </ul>
         </div>
 @endforeach
